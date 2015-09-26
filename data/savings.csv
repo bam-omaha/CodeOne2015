@@ -1,0 +1,41 @@
+Sub Prod Cd,Acct Nbr,Tran Cd,Trans Desc,Tran Detail Desc,Db Cr Cd,Category,Post Dt,Tran Amt,MCC,Merchant Type,SIC Code Group Type,Presentation
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,6/6/2014,0.01,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,6/6/2014,0.01,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,6/6/2014,0.06,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,5/30/2014,0.06,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,5/30/2014,0.1,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,6/30/2014,0.14,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,5/30/2014,0.14,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,7/31/2014,0.19,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,6/30/2014,0.21,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,8/29/2014,0.24,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,5/30/2014,0.34,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,8/29/2014,0.35,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,7/31/2014,0.44,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,6/30/2014,0.63,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,6/30/2014,0.75,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,7/31/2014,0.82,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,8/29/2014,0.82,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,8/29/2014,0.85,,#N/A,#N/A,#N/A
+Savings,32,1118,INTEREST PAYMENT                       ,                                               ,C,Interest Income,7/31/2014,0.91,,#N/A,#N/A,#N/A
+Savings,32,5600,CUSTOMER WITHDRAWAL                    ,                                               ,D,Withdrawal,8/13/2014,1500,,#N/A,#N/A,#N/A
+Savings,32,1055,ACH WITHDRAWAL                         ,1ST NATL BK OMAH ONLINE PMT 7D0C5F56600CB4     ,D,Withdrawal,7/3/2014,2955.5,,#N/A,#N/A,#N/A
+Savings,32,1055,ACH WITHDRAWAL                         ,FIRST NATIONAL M 402441445717                    ,D,Withdrawal,5/22/2014,500,,#N/A,#N/A,#N/A
+Savings,32,1576,LINE OF CREDIT PAYMENT                 ,ONLINE PAYMENT TO ACCT ENDING        ,D,Loan Payment,6/9/2014,200,,#N/A,#N/A,#N/A
+Savings,32,1580,FUNDS TRANSFER CREDIT                  ,ONLINE TRANSFER FROM ACCT  ,C,Transfer of Funds,5/30/2014,223,,#N/A,#N/A,#N/A
+Savings,32,1580,FUNDS TRANSFER CREDIT                  ,ONLINE TRANSFER FROM ACCT  ,C,Transfer of Funds,5/19/2014,237,,#N/A,#N/A,#N/A
+Savings,32,1580,FUNDS TRANSFER CREDIT                  ,ONLINE TRANSFER FROM ACCT  ,C,Transfer of Funds,8/4/2014,395,,#N/A,#N/A,#N/A
+Savings,32,1580,FUNDS TRANSFER CREDIT                  ,ONLINE TRANSFER FROM ACCT  ,C,Transfer of Funds,8/13/2014,428.78,,#N/A,#N/A,#N/A
+Savings,32,1580,FUNDS TRANSFER CREDIT                  ,ONLINE TRANSFER FROM ACCT  ,C,Transfer of Funds,6/16/2014,450,,#N/A,#N/A,#N/A
+Savings,32,1580,FUNDS TRANSFER CREDIT                  ,ONLINE TRANSFER FROM ACCT  ,C,Transfer of Funds,6/16/2014,800,,#N/A,#N/A,#N/A
+Savings,32,1580,FUNDS TRANSFER CREDIT                  ,ONLINE TRANSFER FROM ACCT  ,C,Transfer of Funds,7/17/2014,850,,#N/A,#N/A,#N/A
+Savings,32,1580,FUNDS TRANSFER CREDIT                  ,ONLINE TRANSFER FROM ACCT  ,C,Transfer of Funds,6/2/2014,1600,,#N/A,#N/A,#N/A
+Savings,32,1580,FUNDS TRANSFER CREDIT                  ,ONLINE TRANSFER FROM ACCT  ,C,Transfer of Funds,6/9/2014,4000,,#N/A,#N/A,#N/A
+Savings,32,1580,FUNDS TRANSFER CREDIT                  ,ONLINE TRANSFER FROM ACCT  ,C,Transfer of Funds,6/24/2014,10400,,#N/A,#N/A,#N/A
+Savings,32,1572,FUNDS TRANSFER DEBIT                   ,ONLINE TRANSFER TO ACCT ,D,Transfer of Funds,6/11/2014,50,,#N/A,#N/A,#N/A
+Savings,32,1572,FUNDS TRANSFER DEBIT                   ,ONLINE TRANSFER TO ACCT ,D,Transfer of Funds,6/25/2014,75,,#N/A,#N/A,#N/A
+Savings,32,1572,FUNDS TRANSFER DEBIT                   ,ONLINE TRANSFER TO ACCT ,D,Transfer of Funds,7/28/2014,250,,#N/A,#N/A,#N/A
+Savings,32,1572,FUNDS TRANSFER DEBIT                   ,ONLINE TRANSFER TO ACCT ,D,Transfer of Funds,5/9/2014,250,,#N/A,#N/A,#N/A
+Savings,32,1572,FUNDS TRANSFER DEBIT                   ,ONLINE TRANSFER TO ACCT ,D,Transfer of Funds,7/14/2014,400,,#N/A,#N/A,#N/A
+Savings,32,1572,FUNDS TRANSFER DEBIT                   ,ONLINE TRANSFER TO ACCT ,D,Transfer of Funds,7/28/2014,1000,,#N/A,#N/A,#N/A
+Savings,32,1572,FUNDS TRANSFER DEBIT                   ,ONLINE TRANSFER TO ACCT ,D,Transfer of Funds,7/21/2014,1500,,#N/A,#N/A,#N/A

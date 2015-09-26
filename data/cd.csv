@@ -1,0 +1,5 @@
+Sub Prod Cd,Acct Nbr,Tran Cd,Trans Desc,Tran Detail Desc,Db Cr Cd,Category,Post Dt,Tran Amt,MCC,Merchant Type,SIC Code Group Type,Presentation
+CD,111,03001,CURRENT BALANCE,,,Investment,8/4/2014,10000.00,,#N/A,#N/A,#N/A
+CD,222,03001,CURRENT BALANCE,,,Investment,8/4/2014,10000.00,,#N/A,#N/A,#N/A
+CD,333,03001,CURRENT BALANCE,,,Investment,8/4/2014,10000.00,,#N/A,#N/A,#N/A
+CD,444,03001,CURRENT BALANCE,,,Investment,8/4/2014,10000.00,,#N/A,#N/A,#N/A

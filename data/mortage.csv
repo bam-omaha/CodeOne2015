@@ -1,0 +1,5 @@
+Sub Prod Cd,Acct Nbr,Tran Cd,Trans Desc,Tran Detail Desc,Db Cr Cd,Category,Post Dt,Tran Amt,MCC,Merchant Type,SIC Code Group Type,Presentation
+MLS,11111,40021,MORTGAGE PAYMENT,,D,Mortage Payment,5/4/2014,1380.75,,,,
+MLS,11111,40021,MORTGAGE PAYMENT,,D,Mortage Payment,6/4/2014,1380.75,,,,
+MLS,11111,40021,MORTGAGE PAYMENT,,D,Mortage Payment,7/5/2014,1380.75,,,,
+MLS,11111,40021,MORTGAGE PAYMENT,,D,Mortage Payment,8/4/2014,1380.75,,,,

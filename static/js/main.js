@@ -1,6 +1,7 @@
 var app = angular.module('StarterApp', ['ngMaterial']).config(function($mdThemingProvider){
     $mdThemingProvider.theme('default')
         .primaryPalette('green');
+        //.backgroundPalette('green');
 });
 
 app.controller('AppCtrl', ['$scope', '$mdSidenav', function($scope, $mdSidenav){

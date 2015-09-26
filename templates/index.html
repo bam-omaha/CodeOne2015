@@ -1,10 +1,22 @@
 {% extends "navbarbase.html" %}
 {% block navcontent %}
-<md-content flex="50" layout-padding>
-    <md-card>
-        <md-card-content><h1>Welcome to the PKI Open House</h1></md-card-content>
-        <img src="../static/img/PKI-Building-Image.jpg" >
-        <md-card-footer layout="row"><md-button flex>Check In</md-button></md-card-footer>
-    </md-card>
-</md-content>
+<form>
+	<div flex layout="column" >
+		<div flex="20" offset="20">
+			<div id = "box" flex layout="row"  layout-align="center center" flex-order="0">
+				<md-input-container flex="33" id="damn" flex-order="1">
+				<label>What do you want to know</label>
+				<input  type="text">
+				</md-input-container>
+
+				<md-button type="submit" class="md-raised" flex-order="2">Submit</md-button>
+			</div>
+		</div>
+		<div flex>
+			<!--Response data put here-->
+		</div>
+	</div>
+
+</form>
+
 {% endblock %}
