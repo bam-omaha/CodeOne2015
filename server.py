@@ -162,7 +162,7 @@ def parse_question(question):
     query =  process.parse(question)
     return list(db.engine.execute(query))
 
-@app.route('/json/ask', methods="POST")
+@app.route('/json/ask', methods=["POST"])
 def jsonask():
     response = parse_question(request.form.get("question", ""))
     return json.dumps({"table": response})
