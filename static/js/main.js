@@ -17,7 +17,10 @@ app.controller('AppCtrl', ['$scope', '$mdSidenav', '$http', function($scope, $md
                 function(dat){
                     console.log(dat);
                     $scope.data = dat.data.table;
-                },angular.noop(),angular.noop());
+                },
+                function(data, status){
+                    alert("malformed query")
+                },angular.noop());
 
     }
 

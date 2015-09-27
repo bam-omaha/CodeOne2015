@@ -1,7 +1,7 @@
 % start S
 
 S[SEM=('KNOWLEDGE')] -> WH O
-S[SEM=('SELECT * FROM transactions' + ?q)] -> HM[SEM=?q]
+S[SEM=('SELECT * FROM transactions t inner join categories c on c.id=t.category_id ' + ?q)] -> HM[SEM=?q]
 
 WH -> 'what' 'is'
 O -> 'a' 'cd'
@@ -23,13 +23,10 @@ SPV -> 'spend'
 
 Q[SEM=(' WHERE' + ?q)] -> 'on' TAGLIST[SEM=?q]
 
-TAGLIST[SEM=(' category like ' + ?a)] -> TAG[NAM=?a]
+TAGLIST[SEM=(' c.title like ' + ?a)] -> TAG[NAM=?a]
 TAGLIST[SEM=(?a + ' OR category like ' + ?b)] -> TAGLIST[SEM=?a] TAG[NAM=?b]
 TAGLIST[SEM=(?a + ' OR category like ' + ?b)] -> TAGLIST[SEM=?a] 'and' TAG[NAM=?b]
 
-TAG[NAM='"%frogs%"'] -> 'frogs'
-TAG[NAM='"%computers%"'] -> 'computers'
-TAG[NAM='"%coffee%"'] -> 'coffee'
-TAG[NAM='"%clothes%"'] -> 'clothes'
-TAG[NAM='"%grocery%"'] -> 'grocery'
-TAG[NAM='"%spa%"'] -> 'spa'
+{% for cat in categories %}
+    TAG[NAM='"%{{ cat }}%"'] -> '{{ cat }}'
+{% endfor %}

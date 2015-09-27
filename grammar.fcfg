@@ -1,0 +1,294 @@
+% start S
+
+
+
+S[SEM=('KNOWLEDGE')] -> WH O
+
+S[SEM=('SELECT * FROM transactions t inner join categories c on c.id=t.category_id ' + ?q)] -> HM[SEM=?q]
+
+
+
+WH -> 'what' 'is'
+
+O -> 'a' 'cd'
+
+
+
+HM[SEM=(?q + ' COLLATE NOCASE;')] -> SPENT Q[SEM=?q]
+
+HM[SEM=''] -> SPENT
+
+
+
+SPENT -> SQ TENSW 'i' SPV
+
+SQ -> 'how' 'much' 'money'
+
+SQ -> 'how' 'much'
+
+SQ -> 'what'
+
+TENSW -> 'have'
+
+TENSW -> 'did'
+
+TENSW -> 'will'
+
+TENSW -> 'do'
+
+SPV -> 'spent'
+
+SPV -> 'spend'
+
+
+
+
+
+Q[SEM=(' WHERE' + ?q)] -> 'on' TAGLIST[SEM=?q]
+
+
+
+TAGLIST[SEM=(' c.title like ' + ?a)] -> TAG[NAM=?a]
+
+TAGLIST[SEM=(?a + ' OR category like ' + ?b)] -> TAGLIST[SEM=?a] TAG[NAM=?b]
+
+TAGLIST[SEM=(?a + ' OR category like ' + ?b)] -> TAGLIST[SEM=?a] 'and' TAG[NAM=?b]
+
+
+
+
+
+    TAG[NAM='"%utilities%"'] -> 'utilities'
+
+
+
+    TAG[NAM='"%travel%"'] -> 'travel'
+
+
+
+    TAG[NAM='"%service fee%"'] -> 'service fee'
+
+
+
+    TAG[NAM='"%service%"'] -> 'service'
+
+
+
+    TAG[NAM='"%fee%"'] -> 'fee'
+
+
+
+    TAG[NAM='"%spa and massage%"'] -> 'spa and massage'
+
+
+
+    TAG[NAM='"%spa%"'] -> 'spa'
+
+
+
+    TAG[NAM='"%and%"'] -> 'and'
+
+
+
+    TAG[NAM='"%massage%"'] -> 'massage'
+
+
+
+    TAG[NAM='"%electronics/housing%"'] -> 'electronics/housing'
+
+
+
+    TAG[NAM='"%electronics%"'] -> 'electronics'
+
+
+
+    TAG[NAM='"%housing%"'] -> 'housing'
+
+
+
+    TAG[NAM='"%grocery%"'] -> 'grocery'
+
+
+
+    TAG[NAM='"%auto/gas%"'] -> 'auto/gas'
+
+
+
+    TAG[NAM='"%auto%"'] -> 'auto'
+
+
+
+    TAG[NAM='"%gas%"'] -> 'gas'
+
+
+
+    TAG[NAM='"%auto/travel%"'] -> 'auto/travel'
+
+
+
+    TAG[NAM='"%auto%"'] -> 'auto'
+
+
+
+    TAG[NAM='"%travel%"'] -> 'travel'
+
+
+
+    TAG[NAM='"%retail%"'] -> 'retail'
+
+
+
+    TAG[NAM='"%restaurants/bars%"'] -> 'restaurants/bars'
+
+
+
+    TAG[NAM='"%restaurants%"'] -> 'restaurants'
+
+
+
+    TAG[NAM='"%bars%"'] -> 'bars'
+
+
+
+    TAG[NAM='"%insurance%"'] -> 'insurance'
+
+
+
+    TAG[NAM='"%atm / cash%"'] -> 'atm / cash'
+
+
+
+    TAG[NAM='"%atm %"'] -> 'atm '
+
+
+
+    TAG[NAM='"% cash%"'] -> ' cash'
+
+
+
+    TAG[NAM='"%atm%"'] -> 'atm'
+
+
+
+    TAG[NAM='"%/%"'] -> '/'
+
+
+
+    TAG[NAM='"%cash%"'] -> 'cash'
+
+
+
+    TAG[NAM='"%insurance %"'] -> 'insurance '
+
+
+
+    TAG[NAM='"%insurance%"'] -> 'insurance'
+
+
+
+    TAG[NAM='"%recreation%"'] -> 'recreation'
+
+
+
+    TAG[NAM='"%unclassified%"'] -> 'unclassified'
+
+
+
+    TAG[NAM='"%clothing/retail%"'] -> 'clothing/retail'
+
+
+
+    TAG[NAM='"%clothing%"'] -> 'clothing'
+
+
+
+    TAG[NAM='"%retail%"'] -> 'retail'
+
+
+
+    TAG[NAM='"%healthcare%"'] -> 'healthcare'
+
+
+
+    TAG[NAM='"%paycheck%"'] -> 'paycheck'
+
+
+
+    TAG[NAM='"%investment%"'] -> 'investment'
+
+
+
+    TAG[NAM='"%loan payment%"'] -> 'loan payment'
+
+
+
+    TAG[NAM='"%loan%"'] -> 'loan'
+
+
+
+    TAG[NAM='"%payment%"'] -> 'payment'
+
+
+
+    TAG[NAM='"%charity%"'] -> 'charity'
+
+
+
+    TAG[NAM='"%housing%"'] -> 'housing'
+
+
+
+    TAG[NAM='"%medical%"'] -> 'medical'
+
+
+
+    TAG[NAM='"%restaurants%"'] -> 'restaurants'
+
+
+
+    TAG[NAM='"%kids%"'] -> 'kids'
+
+
+
+    TAG[NAM='"%pharmacy%"'] -> 'pharmacy'
+
+
+
+    TAG[NAM='"%pet%"'] -> 'pet'
+
+
+
+    TAG[NAM='"%vacation%"'] -> 'vacation'
+
+
+
+    TAG[NAM='"%parking%"'] -> 'parking'
+
+
+
+    TAG[NAM='"%gift%"'] -> 'gift'
+
+
+
+    TAG[NAM='"%doctor/healthcare%"'] -> 'doctor/healthcare'
+
+
+
+    TAG[NAM='"%doctor%"'] -> 'doctor'
+
+
+
+    TAG[NAM='"%healthcare%"'] -> 'healthcare'
+
+
+
+    TAG[NAM='"%atm fee%"'] -> 'atm fee'
+
+
+
+    TAG[NAM='"%atm%"'] -> 'atm'
+
+
+
+    TAG[NAM='"%fee%"'] -> 'fee'
+

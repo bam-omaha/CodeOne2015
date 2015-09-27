@@ -157,6 +157,8 @@ def parse_question(question):
         return ""
 
     query =  process.parse(question)
+    if query is None:
+        return None
 
     print("Query is: ", query)
     return list(db.engine.execute(query))
@@ -165,6 +167,8 @@ def parse_question(question):
 def jsonask():
     data = json.loads(request.data.decode())
     response = parse_question(data["question"])
+    if response is None:
+        abort(409)
     return json.dumps({"table": [dict(x.items()) for x in response]})
 
 @app.route('/', methods=['GET', 'POST'])
