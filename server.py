@@ -159,27 +159,38 @@ def parse_question(question):
     if question == "":
         return ""
 
-    perform.rm("static/holding.wav")
-    perform.espeak("-w static/holding.wav","\"" + question+ "\"")
 
-    query =  process.parse(question)
+    query, question_type =  process.parse(question)
     if query is None:
         return None
 
     print("Query is: ", query)
-    return list(db.engine.execute(query))
-@app.route('/audio')
-def audio():
-    return app.send_static_file('holding.wav')
+    print("Question is: ", question_type)
+    return list(db.engine.execute(query)), question_type
 
 
 @app.route('/json/ask', methods=["POST"])
 def jsonask():
     data = json.loads(request.data.decode())
-    response = parse_question(data["question"])
+    response, question_type = parse_question(data["question"])
     if response is None:
         abort(409)
-    return json.dumps({"table": [dict(x.items()) for x in response]})
+
+    # Tabulate result
+    if question_type == "How much":
+        total = 0
+        for entry in response:
+            total += float(entry.amount)
+        answer = "The total is" + str(total)
+        
+    elif question_type == "What is":
+        answer = response[0].answer
+
+    
+    perform.rm("static/holding.wav")
+    perform.espeak("-w static/holding.wav","\"" + answer + "\"")
+
+    return json.dumps({"table": [dict(x.items()) for x in response], "question_type": question_type, "answer": answer})
 
 @app.route('/', methods=['GET', 'POST'])
 def index():

@@ -8,6 +8,5 @@ def parse(question):
         return None
 
     tree = list(parsed)[0]
-    tree.label()['SEM']
-    return "".join(tree.label()['SEM'])
+    return "".join(tree.label()['SEM']), "".join(tree.label()['QT'])
 

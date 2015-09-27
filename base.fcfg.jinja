@@ -1,13 +1,19 @@
 % start S
 
-S[SEM=('KNOWLEDGE')] -> WH O
-S[SEM=('SELECT * FROM transactions t inner join categories c on c.id=t.category_id ' + ?q)] -> HM[SEM=?q]
+S[QT='What is', SEM=('SELECT * from knowledges WHERE topic_name=' + ?q + ' COLLATE NOCASE;')] -> WH[SEM=?q]
+S[QT='How much', SEM=('SELECT * FROM transactions t inner join categories c on c.id=t.category_id ' + ?q)] -> HOWMUCH[SEM=?q]
 
-WH -> 'what' 'is'
-O -> 'a' 'cd'
+WH[SEM=?q] -> 'what' 'are' O[SEM=?q]
+WH[SEM=?q] -> 'what' 'is' O[SEM=?q]
+WH[SEM=?q] -> 'what' 'is' 'a' O[SEM=?q]
+WH[SEM=?q] -> 'what' 'is' 'the' O[SEM=?q]
+WH[SEM=?q] -> 'how' 'do' O[SEM=?q] 'work'
+{% for knowledge in knowledges %}
+O[SEM='"{{ knowledge.topic_name }}"'] -> '{{ knowledge.topic_name }}'
+{% endfor %}
 
-HM[SEM=(?q + ' COLLATE NOCASE;')] -> SPENT Q[SEM=?q]
-HM[SEM=''] -> SPENT
+HOWMUCH[SEM=(?q + ' COLLATE NOCASE;')] -> SPENT Q[SEM=?q]
+HOWMUCH[SEM=''] -> SPENT
 
 SPENT -> SQ TENSW 'i' SPV
 SQ -> 'how' 'much' 'money'
@@ -24,9 +30,9 @@ SPV -> 'spend'
 Q[SEM=(' WHERE' + ?q)] -> 'on' TAGLIST[SEM=?q]
 
 TAGLIST[SEM=(' c.title like ' + ?a)] -> TAG[NAM=?a]
-TAGLIST[SEM=(?a + ' OR category like ' + ?b)] -> TAGLIST[SEM=?a] TAG[NAM=?b]
-TAGLIST[SEM=(?a + ' OR category like ' + ?b)] -> TAGLIST[SEM=?a] 'and' TAG[NAM=?b]
+TAGLIST[SEM=(?a + ' OR c.title like ' + ?b)] -> TAGLIST[SEM=?a] TAG[NAM=?b]
+TAGLIST[SEM=(?a + ' OR c.title like ' + ?b)] -> TAGLIST[SEM=?a] 'and' TAG[NAM=?b]
 
 {% for cat in categories %}
-    TAG[NAM='"%{{ cat }}%"'] -> '{{ cat }}'
+TAG[NAM='"%{{ cat }}%"'] -> '{{ cat }}'
 {% endfor %}

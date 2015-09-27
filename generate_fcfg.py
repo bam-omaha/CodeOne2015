@@ -23,6 +23,9 @@ for cat in categories:
             category_names.append(x.lower())
 
 category_names.remove("")
+category_names.remove("and")
+
+knowledges = model.Knowledge.query.all()
 
 with open("grammar.fcfg", "w+") as f:
-    f.write(template.render(categories=category_names))
+    f.write(template.render(categories=category_names, knowledges=knowledges))
