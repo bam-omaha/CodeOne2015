@@ -22,11 +22,11 @@ WH[SEM=?q] -> 'how' 'do' O[SEM=?q] 'work'
 
 
 
-O[SEM='"cd"'] -> 'cd'
-
-
-
 O[SEM='"investment"'] -> 'investment'
+
+
+
+O[SEM='"cd"'] -> 'cd'
 
 
 
