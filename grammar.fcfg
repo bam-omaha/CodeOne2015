@@ -10,6 +10,8 @@ S[QT='How much', SEM=('SELECT * FROM transactions t inner join categories c on c
 
 WH -> 'what' 'is'
 
+WH -> 'what' 'is' 'a'
+
 
 
 O[SEM='"investment"'] -> 'investment'
