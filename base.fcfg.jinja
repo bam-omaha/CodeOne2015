@@ -6,6 +6,7 @@ S[QT='How much', SEM=('SELECT * FROM transactions t inner join categories c on c
 WH[SEM=?q] -> 'what' 'are' O[SEM=?q]
 WH[SEM=?q] -> 'what' 'is' O[SEM=?q]
 WH[SEM=?q] -> 'what' 'is' 'a' O[SEM=?q]
+WH[SEM=?q] -> 'what' 'is' 'an' O[SEM=?q]
 WH[SEM=?q] -> 'what' 'is' 'the' O[SEM=?q]
 WH[SEM=?q] -> 'how' 'do' O[SEM=?q] 'work'
 {% for knowledge in knowledges %}
