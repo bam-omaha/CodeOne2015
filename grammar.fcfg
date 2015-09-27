@@ -14,17 +14,11 @@ WH[SEM=?q] -> 'what' 'is' O[SEM=?q]
 
 WH[SEM=?q] -> 'what' 'is' 'a' O[SEM=?q]
 
+WH[SEM=?q] -> 'what' 'is' 'an' O[SEM=?q]
+
 WH[SEM=?q] -> 'what' 'is' 'the' O[SEM=?q]
 
 WH[SEM=?q] -> 'how' 'do' O[SEM=?q] 'work'
-
-
-
-O[SEM='"investment"'] -> 'investment'
-
-
-
-O[SEM='"cd"'] -> 'cd'
 
 
 
@@ -259,104 +253,4 @@ TAG[NAM='"%loan%"'] -> 'loan'
 
 
 TAG[NAM='"%payment%"'] -> 'payment'
-
-
-
-TAG[NAM='"%charity%"'] -> 'charity'
-
-
-
-TAG[NAM='"%home supply/housing%"'] -> 'home supply/housing'
-
-
-
-TAG[NAM='"%home supply%"'] -> 'home supply'
-
-
-
-TAG[NAM='"%housing%"'] -> 'housing'
-
-
-
-TAG[NAM='"%home%"'] -> 'home'
-
-
-
-TAG[NAM='"%supply/housing%"'] -> 'supply/housing'
-
-
-
-TAG[NAM='"%returned purchase%"'] -> 'returned purchase'
-
-
-
-TAG[NAM='"%returned%"'] -> 'returned'
-
-
-
-TAG[NAM='"%purchase%"'] -> 'purchase'
-
-
-
-TAG[NAM='"%medical%"'] -> 'medical'
-
-
-
-TAG[NAM='"%restaurants%"'] -> 'restaurants'
-
-
-
-TAG[NAM='"%kids activities%"'] -> 'kids activities'
-
-
-
-TAG[NAM='"%kids%"'] -> 'kids'
-
-
-
-TAG[NAM='"%activities%"'] -> 'activities'
-
-
-
-TAG[NAM='"%pharmacy%"'] -> 'pharmacy'
-
-
-
-TAG[NAM='"%pet%"'] -> 'pet'
-
-
-
-TAG[NAM='"%vacation%"'] -> 'vacation'
-
-
-
-TAG[NAM='"%parking%"'] -> 'parking'
-
-
-
-TAG[NAM='"%gift%"'] -> 'gift'
-
-
-
-TAG[NAM='"%doctor/healthcare%"'] -> 'doctor/healthcare'
-
-
-
-TAG[NAM='"%doctor%"'] -> 'doctor'
-
-
-
-TAG[NAM='"%healthcare%"'] -> 'healthcare'
-
-
-
-TAG[NAM='"%atm fee%"'] -> 'atm fee'
-
-
-
-TAG[NAM='"%atm%"'] -> 'atm'
-
-
-
-TAG[NAM='"%fee%"'] -> 'fee'
 
