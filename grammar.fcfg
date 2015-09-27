@@ -14,17 +14,19 @@ WH[SEM=?q] -> 'what' 'is' O[SEM=?q]
 
 WH[SEM=?q] -> 'what' 'is' 'a' O[SEM=?q]
 
+WH[SEM=?q] -> 'what' 'is' 'an' O[SEM=?q]
+
 WH[SEM=?q] -> 'what' 'is' 'the' O[SEM=?q]
 
 WH[SEM=?q] -> 'how' 'do' O[SEM=?q] 'work'
 
 
 
-O[SEM='"investment"'] -> 'investment'
-
-
-
 O[SEM='"cd"'] -> 'cd'
+
+
+
+O[SEM='"investment"'] -> 'investment'
 
 
 
@@ -118,15 +120,7 @@ TAG[NAM='"%housing%"'] -> 'housing'
 
 
 
-TAG[NAM='"%grocery%"'] -> 'grocery'
-
-
-
-TAG[NAM='"%auto/gas%"'] -> 'auto/gas'
-
-
-
-TAG[NAM='"%auto%"'] -> 'auto'
+TAG[NAM='"%groceries%"'] -> 'groceries'
 
 
 
@@ -166,27 +160,7 @@ TAG[NAM='"%insurance%"'] -> 'insurance'
 
 
 
-TAG[NAM='"%atm / cash%"'] -> 'atm / cash'
-
-
-
-TAG[NAM='"%atm %"'] -> 'atm '
-
-
-
-TAG[NAM='"% cash%"'] -> ' cash'
-
-
-
 TAG[NAM='"%atm%"'] -> 'atm'
-
-
-
-TAG[NAM='"%/%"'] -> '/'
-
-
-
-TAG[NAM='"%cash%"'] -> 'cash'
 
 
 
@@ -359,4 +333,8 @@ TAG[NAM='"%atm%"'] -> 'atm'
 
 
 TAG[NAM='"%fee%"'] -> 'fee'
+
+
+
+TAG[NAM='"%coffee%"'] -> 'coffee'
 
