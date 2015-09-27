@@ -1,12 +1,12 @@
 % start S
 
 S[SEM=('KNOWLEDGE')] -> WH O
-S[SEM=('SELECT * FROM transactions' + ?q + ' COLLATE NOCASE;')] -> HM[SEM=?q]
+S[SEM=('SELECT * FROM transactions' + ?q)] -> HM[SEM=?q]
 
 WH -> 'what' 'is'
 O -> 'a' 'cd'
 
-HM[SEM=?q] -> SPENT Q[SEM=?q]
+HM[SEM=(?q + ' COLLATE NOCASE;')] -> SPENT Q[SEM=?q]
 HM[SEM=''] -> SPENT
 
 SPENT -> SQ TENSW 'i' SPV
@@ -23,12 +23,13 @@ SPV -> 'spend'
 
 Q[SEM=(' WHERE' + ?q)] -> 'on' TAGLIST[SEM=?q]
 
-TAGLIST[SEM=(' category=' + ?a)] -> TAG[NAM=?a]
-TAGLIST[SEM=(?a + ' OR category=' + ?b)] -> TAGLIST[SEM=?a] TAG[NAM=?b]
-TAGLIST[SEM=(?a + ' OR category=' + ?b)] -> TAGLIST[SEM=?a] 'and' TAG[NAM=?b]
+TAGLIST[SEM=(' category like ' + ?a)] -> TAG[NAM=?a]
+TAGLIST[SEM=(?a + ' OR category like ' + ?b)] -> TAGLIST[SEM=?a] TAG[NAM=?b]
+TAGLIST[SEM=(?a + ' OR category like ' + ?b)] -> TAGLIST[SEM=?a] 'and' TAG[NAM=?b]
 
-TAG[NAM='"frogs"'] -> 'frogs'
-TAG[NAM='"computers"'] -> 'computers'
-TAG[NAM='"coffee"'] -> 'coffee'
-TAG[NAM='"clothes"'] -> 'clothes'
-TAG[NAM='"grocery"'] -> 'grocery'
+TAG[NAM='"%frogs%"'] -> 'frogs'
+TAG[NAM='"%computers%"'] -> 'computers'
+TAG[NAM='"%coffee%"'] -> 'coffee'
+TAG[NAM='"%clothes%"'] -> 'clothes'
+TAG[NAM='"%grocery%"'] -> 'grocery'
+TAG[NAM='"%spa%"'] -> 'spa'

@@ -160,13 +160,13 @@ def parse_question(question):
         return ""
 
     query =  process.parse(question)
+
+    print("Query is: ", query)
     return list(db.engine.execute(query))
 
 @app.route('/json/ask', methods=["POST"])
 def jsonask():
-    print(request.form.get("question"))
     response = parse_question(request.form.get("question", ""))
-    print("response is: ", response)
     return json.dumps({"table": [dict(x.items()) for x in response]})
 
 @app.route('/', methods=['GET', 'POST'])
