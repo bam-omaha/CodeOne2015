@@ -1,0 +1,33 @@
+% start S
+
+S[SEM=('KNOWLEDGE')] -> WH O
+S[SEM=('SELECT * FROM transactions' + ?q)] -> HM[SEM=?q]
+
+WH -> 'what' 'is'
+O -> 'a' 'cd'
+
+HM[SEM=?q] -> SPENT Q[SEM=?q]
+HM[SEM=''] -> SPENT
+
+SPENT -> SQ TENSW 'i' SPV
+SQ -> 'how' 'much' 'money'
+SQ -> 'how' 'much'
+SQ -> 'what'
+TENSW -> 'have'
+TENSW -> 'did'
+TENSW -> 'will'
+TENSW -> 'do'
+SPV -> 'spent'
+SPV -> 'spend'
+
+
+Q[SEM=('WHERE' + ?q)] -> 'on' TAGLIST[SEM=?q]
+
+TAGLIST[SEM=('type=' + ?a)] -> TAG[NAM=?a]
+TAGLIST[SEM=(?a + ' OR type=' + ?b)] -> TAGLIST[SEM=?a] TAG[NAM=?b]
+TAGLIST[SEM=(?a + ' OR type=' + ?b)] -> TAGLIST[SEM=?a] 'and' TAG[NAM=?b]
+
+TAG[NAM='frogs'] -> 'frogs'
+TAG[NAM='computers'] -> 'computers'
+TAG[NAM='coffee'] -> 'coffee'
+TAG[NAM='clothes'] -> 'clothes'
