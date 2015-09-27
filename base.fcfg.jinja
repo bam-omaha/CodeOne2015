@@ -5,6 +5,7 @@ S[QT='How much', SEM=('SELECT * FROM transactions t inner join categories c on c
 
 WH -> 'what' 'is'
 WH -> 'what' 'is' 'a'
+WH -> 'what' 'is' 'the'
 {% for knowledge in knowledges %}
 O[SEM='"{{ knowledge.topic_name }}"'] -> '{{ knowledge.topic_name }}'
 {% endfor %}
