@@ -6,6 +6,10 @@ var app = angular.module('StarterApp', ['ngMaterial']).config(function($mdThemin
 
 app.controller('AppCtrl', ['$scope', '$mdSidenav', '$http', function($scope, $mdSidenav, $http){
     $scope.question = "how much do I spend";
+    $scope.subject = "";
+    $scope.hasInfo = false;
+    $scope.isAnswer = true;
+    $scope.isTabular = true;
     $scope.toggleSidenav = function(menuId) {
         $mdSidenav(menuId).toggle();
     };
@@ -15,11 +19,23 @@ app.controller('AppCtrl', ['$scope', '$mdSidenav', '$http', function($scope, $md
         console.log($scope.question);
         $http.post("/json/ask",{"question":$scope.question}).then(
                 function(dat){
+                    $scope.hasInfo=true;
                     console.log(dat);
-                    $scope.data = dat.data.table;
+                    if(dat.data.question_type=="What is"){
+                        $scope.isTabular = false;
+                        $scope.isAnswer = true;
+                        $scope.answer = dat.data.answer;
+                        $scope.subject = dat.data.table[0].topic_name;
+                        console.log("WI");
+                    }else {
+                        $scope.isTabular = true;
+                        $scope.isAnswer = false;
+                        $scope.data = dat.data.table;
+                    }
                 },
                 function(data, status){
-                    alert("malformed query")
+                    $scope.hasInfo = false;
+                    alert("malformed query");
                 },angular.noop());
 
     }
@@ -28,6 +44,15 @@ app.controller('AppCtrl', ['$scope', '$mdSidenav', '$http', function($scope, $md
 }]);
 
 
+app.directive('answerCard',function(){
+    return {
+        scope: {
+            "answer" : "=answer",
+            "subject" : "=subject"
+        },
+        templateUrl: '/html/answer.html'
+    }
+});
 app.directive('splaininBox',function(){
     return {
         scope: {
