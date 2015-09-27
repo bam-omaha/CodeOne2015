@@ -75,9 +75,7 @@ def create_user(name, email, password, is_admin=False):
     db.session.commit()
     return newuser
 
-def create_transaction(name, title, amount, category,time):
-    users = model.User.query.filter_by(name=name)
-    user = users.first()
+def create_transaction(user, title, amount, category,time):
     print(time)
     newTransaction = model.Transaction(user, title, amount, category,time)
     db.session.add(newTransaction)

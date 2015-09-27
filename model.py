@@ -1,4 +1,3 @@
-
 from flask.ext.sqlalchemy import SQLAlchemy
 from flask import Markup
 
@@ -17,19 +16,31 @@ class Model():
             id = db.Column(db.Integer, primary_key=True)
             title = db.Column(db.String)
             amount = db.Column(db.String)
-            category = db.Column(db.String)
             time = db.Column(db.DateTime)
+
             user_id = db.Column(db.Integer, db.ForeignKey('users.id'))
             user = db.relationship('User', backref=db.backref('Transactions', lazy='dynamic'))
 
-            def __init__(self,user, title,amount,category,time):
-                self.user = user 
-                self.title = title
-                self.amount = amount 
-                self.category = category 
-                self.time = datetime.strptime(time, '%m/%d/%Y')
+            category_id = db.Column(db.Integer, db.ForeignKey('categories.id'))
+            category = db.relationship('Category', backref=db.backref('Transaction', lazy='dynamic'))
 
+            def __init__(self, user, title, amount, category, time):
+                self.user = user
+                self.title = title
+                self.amount = amount
+                self.category = category
+                self.time = datetime.strptime(time, '%m/%d/%Y')
         self.Transaction = Transaction
+
+        class Category(self.db.Model):
+            __tablename__ = 'categories'
+
+            id = db.Column(db.Integer, primary_key=True)
+            title = db.Column(db.String)
+
+            def __init__(self, title):
+                self.title = title
+        self.Category = Category
 
         class Budget(self.db.Model):
             __tablename__ = 'budget'
@@ -47,7 +58,7 @@ class Model():
                 self.text = text
                 self.rating = rating
                 self.category = category
-        self.Budget = Budget 
+        self.Budget = Budget
 
         class User(self.db.Model):
             __tablename__ = 'users'
