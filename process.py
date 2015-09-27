@@ -6,5 +6,5 @@ def parse(text):
     thing = cp.parse(text.lower().split())
     tree = list(thing)[0]
     tree.label()['SEM']
-    return " ".join(tree.label()['SEM'])
+    return "".join(tree.label()['SEM'])
 
