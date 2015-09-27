@@ -159,7 +159,8 @@ def parse_question(question):
     if question == "":
         return ""
 
-    perform.espeak("-w holding.wav","\"" + question+ "\"")
+    perform.rm("static/holding.wav")
+    perform.espeak("-w static/holding.wav","\"" + question+ "\"")
 
     query =  process.parse(question)
     if query is None:
@@ -170,6 +171,7 @@ def parse_question(question):
 @app.route('/audio')
 def audio():
     return app.send_static_file('holding.wav')
+
 
 @app.route('/json/ask', methods=["POST"])
 def jsonask():
@@ -270,6 +272,7 @@ def user_delete(user_id):
 @app.route('/js/<remainder>', methods=['GET'])
 @app.route('/img/<remainder>', methods=['GET'])
 @app.route('/html/<remainder>', methods=['GET'])
+@app.route('/holding.wav', methods=['GET'])
 @login_required
 def get_static(remainder):
     return send_from_directory(app.static_folder,request.path[1:])

@@ -18,7 +18,7 @@ app.controller('AppCtrl', ['$scope', '$mdSidenav', '$http', function($scope, $md
                     console.log(dat);
                     $scope.data = dat.data.table;
 										
-                      var audio = new Audio('/audio');
+                      var audio = new Audio('static/holding.wav');
                       audio.play();
                 },
                 function(data, status){
