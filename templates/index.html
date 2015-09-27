@@ -16,6 +16,12 @@
             {{ resp_data }}
 		</div>
 	</div>
+    <style>
+md-card {
+    width:400px;
+}
+    </style>
+
     <div ng-if='hasInfo' layout="row" layout-align='center center' layout-wrap>
         <answer-card  ng-if="isAnswer" subject="subject" answer="answer"></answer-card>
         <awesome-graph ng-if="isTabular"data="data"></awesome-graph>

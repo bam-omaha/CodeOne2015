@@ -3,7 +3,7 @@
     <md-list>
         <md-list-item ng-repeat='(key,val) in data'>
             <p>{{val.title}}</p>
-            <p>{{val.time}}</p>
+            <p>{{val.time.split(" ")[0]}}</p>
             <p>{{val.amount}}</p>
         </md-list-item>
     </md-list>
