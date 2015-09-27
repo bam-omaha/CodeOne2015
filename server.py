@@ -19,6 +19,8 @@ import json
 import os
 import platform
 
+import process
+
 app = Flask(__name__)
 loginmanager = LoginManager()
 loginmanager.init_app(app)
@@ -145,7 +147,12 @@ def signout():
 def index():
     if current_user.is_anonymous:
         return redirect("/signin")
-    return render_template('index.html', resp_data=request.form.get("question", ""))
+    question = request.form.get("question", "")
+    print(question)
+    response = ""
+    if question != "" :
+        response =  process.parse(question)
+    return render_template('index.html', resp_data=response)
 
 @app.route('/profile', methods=['GET', 'POST'])
 @login_required

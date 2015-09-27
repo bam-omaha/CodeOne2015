@@ -1,28 +1,10 @@
 
-# coding: utf-8
-
-# In[1]:
-
 import nltk
 
-cp = nltk.load_parser('thing.fcfg')
-thing = cp.parse("How much have I spent on coffee and frogs".split())
-tree = list(thing)[0]
-tree.label()['SEM']
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
+def parse(text):
+    cp = nltk.load_parser('thing.fcfg',cache=False)
+    thing = cp.parse(text.split())
+    tree = list(thing)[0]
+    tree.label()['SEM']
+    return " ".join(tree.label()['SEM'])
 

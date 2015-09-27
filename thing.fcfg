@@ -1,6 +1,6 @@
 % start S
 
-S -> WH O
+S[SEM=('KNOWLEDGE')] -> WH O
 S[SEM=('SELECT * FROM transactions' + ?q)] -> HM Q[SEM=?q]
 
 WH -> 'What' 'is'
@@ -12,7 +12,9 @@ Q[SEM=''] -> 'have' 'I' 'spent'
 Q[SEM=('WHERE' + ?q)] -> 'have' 'I' 'spent' 'on' TAGLIST[SEM=?q]
 
 TAGLIST[SEM=('type=' + ?a)] -> TAG[NAM=?a]
+TAGLIST[SEM=(?a + ' OR type=' + ?b)] -> TAGLIST[SEM=?a] TAG[NAM=?b]
 TAGLIST[SEM=(?a + ' OR type=' + ?b)] -> TAGLIST[SEM=?a] 'and' TAG[NAM=?b]
 
 TAG[NAM='frogs'] -> 'frogs'
+TAG[NAM='computers'] -> 'computers'
 TAG[NAM='coffee'] -> 'coffee'
