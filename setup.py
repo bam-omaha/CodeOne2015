@@ -17,4 +17,5 @@ with open('checkingData.csv') as csvfile:
             db.session.add(category)
             db.session.commit()
 
+        print("Adding entry for {} at {}".format(category_name, date))
         create_transaction(admin_user, description, amount, category, date)

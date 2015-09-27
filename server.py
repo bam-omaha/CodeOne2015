@@ -76,7 +76,6 @@ def create_user(name, email, password, is_admin=False):
     return newuser
 
 def create_transaction(user, title, amount, category,time):
-    print(time)
     newTransaction = model.Transaction(user, title, amount, category,time)
     db.session.add(newTransaction)
     db.session.commit()

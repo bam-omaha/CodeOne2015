@@ -65,7 +65,7 @@ FARMERS MUTUAL   INS PREM   AU265200445AUTO       ,Insurance ,125,8/18/2014
 17440044 TARGET        000057OMAHA        NE       ,Grocery,84.14,8/18/2014
 1415 KUM & GO #700440       GRETNA       NE       ,Auto/Gas,83.58,7/8/2014
 1415 HY VEE GAS 5400442     OMAHA        NE       ,Auto/Gas,82.95,7/28/2014
-1415 SCHEELS-OMAHA       OMAHA        NE       ,Sporting Goods/Retail,81.57,7/1/2014
+1415 SCHEELS-OMAHA       OMAHA        NE       ,Retail,81.57,7/1/2014
 1415 HY-VEE OMAHA #2 GA  OMAHA        NE       ,Grocery,81.47,6/26/2014
 1415 S&E 66              GRETNA       NE       ,Auto/Gas,81.19,7/7/2014
 1415 KUM & GO #760       OMAHA        NE       ,Auto/Gas,80.33,5/5/2014
@@ -137,13 +137,13 @@ COX COMM OMA     BANK DRAFT 172106052110001    ,Utilities,62.99,8/18/2014
 4265 NEBRASKA HUMANE SOCIOMAHA        NE       ,Charity,60,5/19/2014
 17440044 METROPOLITAN UTILITI402-5040044200044  NE       ,Utilities,59.71,8/25/2014
 1415 BEV'S ON THE RIVER  SIOUX CITY   IA       ,Recreation,59.07,7/14/2014
-0145 SCHEELS-OMAHA       OMAHA        NE       ,Sporting Goods/Retail,58.83,7/14/2014
+0145 SCHEELS-OMAHA       OMAHA        NE       ,Retail,58.83,7/14/2014
 0145 TIBURON GOLF CLUB - OMAHA        NE       ,Recreation,58.83,7/11/2014
 1415 MR S'S              OAKDALE      NE       ,Restaurants/Bars,58.69,6/10/2014
 1415 WAL-MART #4600      GRETNA       NE       ,Retail,58.42,7/22/2014
 17440044 TARGET        000057OMAHA        NE       ,Clothing/Retail,58.31,5/12/2014
 1415 TANNERS BAR & GRILL OMAHA        NE       ,Restaurants/Bars,58.09,6/16/2014
-1415 MENARDS 70644        OMAHA        NE       ,Home Supply/Housing,57.5,7/11/2014
+1415 MENARDS 70644        OMAHA        NE       ,Housing,57.5,7/11/2014
 4265 CARTER'S # 410044      OMAHA        NE       ,Clothing/Retail,56.69,6/2/2014
 BHENERGY         WEB_PAY    010544711057014     ,Utilities,56.41,6/19/2014
 17440044 VICTORIA'S SECRET 07OMAHA        NE       ,Clothing/Retail,54.57,7/25/2014
@@ -161,12 +161,10 @@ LINE OF CREDIT ANNUAL FEE                      ,Service Fee,50,8/6/2014
 1415 KUM & GO #700440       GRETNA       NE       ,Auto/Gas,49.37,5/9/2014
 4265 HY VEE 1400442         OMAHA        NE       ,Grocery,49.03,6/2/2014
 1415 SUPER SAVER #20     OMAHA        NE       ,Grocery,48.86,6/4/2014
-1415 OLD NAVY STORE 7122 OMAHA        NE       ,Returned Purchase,12.72,5/12/2014
 1415 KUM & GO #760       OMAHA        NE       ,Auto/Gas,48.46,6/17/2014
 17440044 KUM & GO #7444       OMAHA        NE       ,Auto/Gas,48.36,7/21/2014
 0145 WAL-MART #14402      TOPEKA       KS       ,Retail,48.19,7/18/2014
 4265 WM SUPERCENTER #7260044OMAHA        NE       ,Grocery,48.03,5/23/2014
-1415 OREILLY AUTO  000070OMAHA        NE       ,Returned Purchase,59.91,5/12/2014
 0145 KELLY EXPRESS       TOPEKA       KS       ,Auto/Gas,47.75,7/21/2014
 1415 KUM & GO #700440       GRETNA       NE       ,Auto/Gas,47.67,5/30/2014
 4265 JERZES              PAPILLION    NE       ,Clothing/Retail,47.05,6/19/2014
@@ -178,7 +176,7 @@ LINE OF CREDIT ANNUAL FEE                      ,Service Fee,50,8/6/2014
 17440044 KOHL'S #0775        OMAHA        NE       ,Clothing/Retail,45.37,5/12/2014
 17440044 BAKERS #0715        OMAHA        NE       ,Grocery,45.03,5/12/2014
 1415 AMC OAK VIEW 24 #0044OMAHA        NE       ,Recreation,45,7/7/2014
-1415 LOWES #01151*       OMAHA        NE       ,Home Supply/Housing,44.85,6/2/2014
+1415 LOWES #01151*       OMAHA        NE       ,Housing,44.85,6/2/2014
 0145 DILLONS #0060044       TOPEKA       KS       ,Clothing/Retail,44.59,7/21/2014
 1415 WAL-MART #7260044      OMAHA        NE       ,Retail,43.25,7/11/2014
 1415 HY VEE 1466         OMAHA        NE       ,Grocery,43.08,7/28/2014
@@ -202,9 +200,8 @@ LAKESIDE A44004441144 BILLPAY                       ,Medical,40,8/7/2014
 17440044 KWIK SHOP #0600447     OMAHA        NE       ,Auto/Gas,37.94,5/29/2014
 17440044 QT 514        040051OMAHA        NE       ,Auto/Gas,37.78,7/25/2014
 17440044 KUM & GO #7444       OMAHA        NE       ,Auto/Gas,37.44,8/25/2014
-1415 HOME & GARDEN TRUE VOMAHA        NE       ,Home Supply/Housing,37.43,7/31/2014
+1415 HOME & GARDEN TRUE VOMAHA        NE       ,Housing,37.43,7/31/2014
 1415 THE WATERFALL LOUNGEOMAHA        NE       ,Restaurants/Bars,37.39,7/28/2014
-1415 TARGET        0002744OMAHA        NE       ,Returned Purchase,9.62,7/3/2014
 BHENERGY         WEB_PAY    0112446444000442114     ,Utilities,37.26,8/19/2014
 17440044 KUM & GO #7444       OMAHA        NE       ,Auto/Gas,36.72,6/3/2014
 17440044 KUM & GO #7444       OMAHA        NE       ,Auto/Gas,36.69,5/22/2014
@@ -216,18 +213,18 @@ BHENERGY         WEB_PAY    0112446444000442114     ,Utilities,37.26,8/19/2014
 1415 DON & MILLIES       OMAHA        NE       ,Restaurants/Bars,34.82,5/7/2014
 17440044 BAKERS #0715        OMAHA        NE       ,Grocery,34.6,5/23/2014
 17440044 TARGET        000057OMAHA        NE       ,Grocery,34.6,6/30/2014
-1415 LIFETOUCH SPORTS    152-4426-4000 MN       ,Kids Activities,33.95,5/15/2014
+1415 LIFETOUCH SPORTS    152-4426-4000 MN       ,Kids,33.95,5/15/2014
 1415 MIRACLE HILL GOLF COOMAHA        NE       ,Recreation,33.86,6/2/2014
 BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2014
 0145 WAL-MART #4600      GRETNA       NE       ,Retail,33.67,7/31/2014
 4265 NO FRILLS SPRMKTS 44 OMAHA        NE       ,Grocery,33.42,6/9/2014
 17440044 QT 5445        0400544OMAHA        NE       ,Auto/Gas,33.21,5/19/2014
 17440044 HY VEE 1460044         OMAHA        NE       ,Grocery,32.15,6/2/2014
-1415 TARGET        0002744OMAHA        NE       ,Home Supply/Housing,32.1,5/27/2014
+1415 TARGET        0002744OMAHA        NE       ,Housing,32.1,5/27/2014
 1415 GRETNA AUTO 0020772 GRETNA       NE       ,Auto/Travel,32.09,5/7/2014
-1415 SCHEELS-OMAHA       OMAHA        NE       ,Sporting Goods/Retail,32.09,7/16/2014
+1415 SCHEELS-OMAHA       OMAHA        NE       ,Retail,32.09,7/16/2014
 17440044 KOHL'S #0775        OMAHA        NE       ,Clothing/Retail,32.09,7/21/2014
-0145 HOBBY-LOBBY #0051   OMAHA        NE       ,Sporting Goods/Retail,31.4,7/16/2014
+0145 HOBBY-LOBBY #0051   OMAHA        NE       ,Retail,31.4,7/16/2014
 17440044 BAKERS #0715        OMAHA        NE       ,Grocery,31.14,6/23/2014
 4265 KUM & GO #760       OMAHA        NE       ,Auto/Gas,31.09,6/6/2014
 1415 HY VEE 1400442         OMAHA        NE       ,Grocery,31.02,6/16/2014
@@ -246,17 +243,16 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2014
 1415 NO FRILLS SPRMKTS 44 OMAHA        NE       ,Grocery,28.46,6/30/2014
 17440044 VICTORIA'S SECRET 07OMAHA        NE       ,Clothing/Retail,28.36,8/25/2014
 1415 CENEX CUBBY S 000440004407NELIGH       NE       ,Auto/Gas,28.09,6/10/2014
-17440044 AMAZON MKTPLACE PMTSAMZN.COM/BIL WA       ,Returned Purchase,133.98,7/24/2014
 1415 WAL-MART #4600      GRETNA       NE       ,Retail,28.06,5/12/2014
 17440044 FIVE GUYS--NE # 04  OMAHA        NE       ,Restaurants,27.46,7/7/2014
 4265 JUSTICE #0645       OMAHA        NE       ,Clothing/Retail,27.23,6/2/2014
 1415 COLD STONE - VILLAGEOMAHA        NE       ,Restaurants/Bars,27.05,6/20/2014
 17440044 HY VEE 1400440         OMAHA        NE       ,Grocery,26.75,6/6/2014
-1415 SCHEELS-OMAHA       OMAHA        NE       ,Sporting Goods/Retail,26.74,5/13/2014
+1415 SCHEELS-OMAHA       OMAHA        NE       ,Retail,26.74,5/13/2014
 17440044 VILLAGE-INN-REST #044OMAHA        NE       ,Restaurants/Bars,26.48,5/12/2014
 17440044 TARGET        000057OMAHA        NE       ,Grocery,26.35,6/13/2014
 17440044 BAKERS #0715        OMAHA        NE       ,Grocery,26.01,7/7/2014
-4265 SCHEELS-OMAHA       OMAHA        NE       ,Sporting Goods/Retail,26,5/12/2014
+4265 SCHEELS-OMAHA       OMAHA        NE       ,Retail,26,5/12/2014
 4265 HY VEE 1400442         OMAHA        NE       ,Grocery,25.56,5/8/2014
 17440044 BAKERS #0715        OMAHA        NE       ,Grocery,25.55,7/28/2014
 4265 STORIESCOFFEEHOUSE  OMAHA        NE       ,Restaurants/Bars,25.29,5/27/2014
@@ -300,7 +296,7 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2014
 17440044 WAL Wal-Mart Super 44OMAHA        NE       ,Retail,20.78,5/21/2014
 4265 SONIC DRIVE IN #5140044GRETNA       NE       ,Restaurants,20.51,5/23/2014
 1415 ARBYS 44710          GRETNA       NE       ,Restaurants/Bars,20.44,6/30/2014
-1415 MENARDS 70644        OMAHA        NE       ,Home Supply/Housing,20.28,5/15/2014
+1415 MENARDS 70644        OMAHA        NE       ,Housing,20.28,5/15/2014
 17440044 BAKERS #0715        OMAHA        NE       ,Grocery,20.26,6/11/2014
 17440044 BAKERS #0715        OMAHA        NE       ,Grocery,20.24,8/29/2014
 17440044 BAKERS #0715        OMAHA        NE       ,Grocery,20.17,7/28/2014
@@ -348,7 +344,7 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2014
 17440044 ARBYS 6742          OMAHA        NE       ,Restaurants,17.08,5/27/2014
 17440044 ARBYS 6742          OMAHA        NE       ,Restaurants,16.87,5/12/2014
 1415 WAL-MART #5761      OMAHA        NE       ,Retail,16.82,6/19/2014
-1415 MENARDS 7270 ELKHORNELKHORN      NE       ,Home Supply/Housing,16.78,5/27/2014
+1415 MENARDS 7270 ELKHORNELKHORN      NE       ,Housing,16.78,5/27/2014
 17440044 TARGET        000057OMAHA        NE       ,Grocery,16.38,6/25/2014
 1415 WALGREENS #5110     OMAHA        NE       ,Medical,16.35,6/16/2014
 0145 MCDONALD'S F0044064    SOUTH SIOUX  NE       ,Restaurants,16.23,7/14/2014
@@ -363,7 +359,7 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2014
 17440044 DOMINO'S 6111       OMAHA        NE       ,Restaurants,15.33,7/29/2014
 17440044 ARBYS 6742          OMAHA        NE       ,Restaurants,15.21,6/27/2014
 0145 HARRAH'S RESORT MR SCOUNCIL BLUF IA       ,Vacation,15,7/14/2014
-0145 LANCASTER YOUTH SOFTLINCOLN      NE       ,Kids Activities,15,7/7/2014
+0145 LANCASTER YOUTH SOFTLINCOLN      NE       ,Kids,15,7/7/2014
 17440044 20 GRAND CINEMAS-245OMAHA        NE       ,Recreation,15,6/16/2014
 17440044 LEGENDCOMICSCOFFEE  OMAHA        NE       ,Restaurants/Bars,15,8/18/2014
 4265 OMAHA ZOO ONSITE    OMAHA        NE       ,Charity,15,6/2/2014
@@ -384,7 +380,7 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2014
 17440044 TEE FURY LLC        TEEFURY.COM  CA       ,Clothing/Retail,14,6/17/2014
 17440044 TEE FURY LLC        TEEFURY.COM  CA       ,Clothing/Retail,14,6/18/2014
 17440044 TEE FURY LLC        TEEFURY.COM  CA       ,Clothing/Retail,14,6/23/2014
-1415 SPORTS AUTHORI000062OMAHA        NE       ,Sporting Goods/Retail,13.9,6/20/2014
+1415 SPORTS AUTHORI000062OMAHA        NE       ,Retail,13.9,6/20/2014
 1415 SUBWAY        004276OMAHA        NE       ,Restaurants,13.88,6/16/2014
 17440044 LEGENDCOMICSCOFFEE  OMAHA        NE       ,Restaurants/Bars,13.84,5/5/2014
 17440044 BAKERS #0715        OMAHA        NE       ,Grocery,13.7,8/26/2014
@@ -397,13 +393,13 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2014
 17440044 CULVER'S OF OMAHA   OMAHA        NE       ,Restaurants,12.91,6/23/2014
 4265 CHICK-FIL-A #07020044  BELLEVUE     NE       ,Restaurants,12.71,6/2/2014
 17440044 ARBYS 6742          OMAHA        NE       ,Restaurants,12.69,5/30/2014
-1415 LOWES #011444*       OMAHA        NE       ,Home Supply/Housing,12.57,7/28/2014
+1415 LOWES #011444*       OMAHA        NE       ,Housing,12.57,7/28/2014
 17440044 TARGET        000057OMAHA        NE       ,Grocery,12.56,6/30/2014
 1415 SCOOTERS COFFEEHOUSEOMAHA        NE       ,Restaurants/Bars,12.17,7/11/2014
 17440044 MCDONALD'S F100440044446   OMAHA        NE       ,Restaurants,12.13,6/20/2014
 1415 CHEDDAR'S #620      OMAHA        NE       ,Restaurants/Bars,12.07,5/14/2014
 17440044 BAKERS #0702        OMAHA        NE       ,Grocery,12.03,5/12/2014
-1415 CABELAS RETAIL LAVISLAVISTA      NE       ,Sporting Goods/Retail,12,8/6/2014
+1415 CABELAS RETAIL LAVISLAVISTA      NE       ,Retail,12,8/6/2014
 17440044 MCDONALD'S F100440044446   OMAHA        NE       ,Restaurants,11.95,5/5/2014
 17440044 DRAGON'S LAIR COMICSOMAHA        NE       ,Recreation,11.86,8/4/2014
 17440044 WENDY'S #52144       OMAHA        NE       ,Restaurants,11.82,7/31/2014
@@ -456,9 +452,9 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2014
 17440044 MCDONALD'S F10117   OMAHA        NE       ,Restaurants,8.74,6/6/2014
 17440044 TACO JOHN'S #14441   OMAHA        NE       ,Restaurants,8.73,8/7/2014
 0145 SUNRIZE DONUTS      GRETNA       NE       ,Restaurants/Bars,8.7,7/18/2014
-1415 NOBBIES OMAHA       OMAHA        NE       ,Sporting Goods/Retail,8.55,7/10/2014
+1415 NOBBIES OMAHA       OMAHA        NE       ,Retail,8.55,7/10/2014
 17440044 GROUND ZERO COMIC   OMAHA        NE       ,Recreation,8.55,6/23/2014
-1415 THE HOME DEPOT #7207OMAHA        NE       ,Home Supply/Housing,8.53,5/15/2014
+1415 THE HOME DEPOT #7207OMAHA        NE       ,Housing,8.53,5/15/2014
 1415 WAL-MART #4600      GRETNA       NE       ,Retail,8.48,7/28/2014
 17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,8.47,6/23/2014
 17440044 WAL-MART #41744      OMAHA        NE       ,Retail,8.43,5/29/2014
@@ -482,7 +478,7 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2014
 17440044 MCDONALD'S F100440044446   OMAHA        NE       ,Restaurants,7.54,7/11/2014
 17440044 TARGET        000057OMAHA        NE       ,Grocery,7.52,5/29/2014
 17440044 TACO BELL 00020002447OMAHA        NE       ,Restaurants,7.51,8/1/2014
-1415 SPORTS AUTHORI000062OMAHA        NE       ,Sporting Goods/Retail,7.49,6/25/2014
+1415 SPORTS AUTHORI000062OMAHA        NE       ,Retail,7.49,6/25/2014
 17440044 BAKERS #0715        OMAHA        NE       ,Grocery,7.27,8/4/2014
 17440044 TACO BELL 00020002447OMAHA        NE       ,Restaurants,7.19,6/13/2014
 17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,7.17,7/23/2014
@@ -561,7 +557,7 @@ ABC Company,Paycheck,"1,199.65",8/15/2014
 17440044 QT 5445        0400544OMAHA        NE       ,Auto/Gas,3.27,6/30/2014
 17440044 KWIK SHOP #0600442    QRALSTON      NE       ,Auto/Gas,3.2,5/28/2014
 17440044 THE NE MED CTR - CLAOMAHA        NE       ,Doctor/Healthcare,3.2,6/30/2014
-1415 MENARDS 70644        OMAHA        NE       ,Home Supply/Housing,3.18,7/31/2014
+1415 MENARDS 70644        OMAHA        NE       ,Housing,3.18,7/31/2014
 17440044 BAKERS #0715        OMAHA        NE       ,Grocery,3.15,8/19/2014
 17440044 TARGET        000212OMAHA        NE       ,Grocery,3.02,7/21/2014
 17440044 BAKERS #0715        OMAHA        NE       ,Grocery,3,6/4/2014
