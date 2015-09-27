@@ -15,10 +15,10 @@ COX COMM OMA     BANK DRAFT 1720144710044701001    ,Utilities,192.91,7/23/2015
 1415 OPPD                402-576-4171 NE       ,Utilities,192.71,5/30/2015
 1415 BEST BUY      000024OMAHA        NE       ,Electronics/Housing,181.89,6/2/2015
 COX COMM OMA     BANK DRAFT 1720144710044701001    ,Utilities,179.36,5/23/2015
-1415 FAREWAY STORES #047 OMAHA        NE       ,Grocery,177.48,5/27/2015
-4265 WM SUPERCENTER #4600GRETNA       NE       ,Grocery,177.19,6/6/2015
-1415 FAST MART           NORFOLK      NE       ,Auto/Gas,175.22,6/10/2015
-1415 WM SUPERCENTER #5761OMAHA        NE       ,Grocery,173.55,7/16/2015
+1415 FAREWAY STORES #047 OMAHA        NE       ,Groceries,177.48,5/27/2015
+4265 WM SUPERCENTER #4600GRETNA       NE       ,Groceries,177.19,6/6/2015
+1415 FAST MART           NORFOLK      NE       ,Gas,175.22,6/10/2015
+1415 WM SUPERCENTER #5761OMAHA        NE       ,Groceries,173.55,7/16/2015
 1415 AUTOZONE #1654      OMAHA        NE       ,Auto/Travel,163.67,5/5/2015
 4265 WAL-MART #4600      GRETNA       NE       ,Retail,162.72,5/5/2015
 SPRINT44006716111 ACHBILLPAY 0044777420044744          ,Utilities,150,9/3/2015
@@ -26,7 +26,7 @@ SPRINT44006716111 ACHBILLPAY 0044777420044744          ,Utilities,150,9/3/2015
 1415 THE V OMAHA         OMAHA        NE       ,Restaurants/Bars,148.46,7/30/2015
 1415 STEEL STEED STEAKHOUELGIN        NE       ,Restaurants/Bars,145.01,6/10/2015
 17440044 GEICO               4400-4441-7000 DC       ,Insurance,140.09,9/2/2015
-17440044 17710 WEST MAPLE W  OMAHA        NE       ,ATM / CASH,140,8/1/2015
+17440044 17710 WEST MAPLE W  OMAHA        NE       ,ATM,140,8/1/2015
 0145 WAL-MART #7260044      OMAHA        NE       ,Retail,137.94,7/10/2015
 FARMERS MUTUAL   INS PREM   AU265200445AUTO       ,Insurance ,134.67,5/19/2015
 FARMERS MUTUAL   INS PREM   AU265200445AUTO       ,Insurance ,134.67,6/18/2015
@@ -34,41 +34,41 @@ FARMERS MUTUAL   INS PREM   AU265200445AUTO       ,Insurance ,134.67,7/18/2015
 17440044 AMAZON MKTPLACE PMTSAMZN.COM/BIL WA       ,Recreation,133.98,7/21/2015
 FARMERS MUTUAL   INS PREM   AU265200445AUTO       ,Insurance ,125,8/18/2015
 17440044 METROPOLITAN UTILITI402-5040044200044  NE       ,Utilities,124.1,6/24/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,115.88,7/21/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,115.88,7/21/2015
 1415 PLN*PRICELINE RENTAL444444-4470044-7004400444 CT       ,Unclassified,115.65,6/3/2015
 4265 KOHL'S #0220        OMAHA        NE       ,Clothing/Retail,115.51,5/30/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,111.36,6/26/2015
-4265 COSTCO WHSE #1012   OMAHA        NE       ,Grocery,108.71,5/29/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,111.36,6/26/2015
+4265 COSTCO WHSE #1012   OMAHA        NE       ,Groceries,108.71,5/29/2015
 1415 AMC OAK VIEW 24 #0044OMAHA        NE       ,Recreation,104.25,5/5/2015
-4265 COSTCO WHSE #1012   OMAHA        NE       ,Grocery,103.13,5/22/2015
+4265 COSTCO WHSE #1012   OMAHA        NE       ,Groceries,103.13,5/22/2015
 1415 OREILLY AUTO  000070OMAHA        NE       ,Auto/Travel,102.45,5/12/2015
 17440044 TARGET        000057OMAHA        NE       ,Clothing/Retail,101.76,5/27/2015
-1415 10702 SOUTH 1644TH STOMAHA        NE       ,ATM / CASH,100,7/10/2015
-1415 20TH & FARNAM       OMAHA        NE       ,ATM / CASH,100,8/4/2015
-1415 401 SOUTH HWY. 6    GRETNA       NE       ,ATM / CASH,100,6/6/2015
+1415 10702 SOUTH 1644TH STOMAHA        NE       ,ATM,100,7/10/2015
+1415 20TH & FARNAM       OMAHA        NE       ,ATM,100,8/4/2015
+1415 401 SOUTH HWY. 6    GRETNA       NE       ,ATM,100,6/6/2015
 17440044 AmazonPrime Membershamzn.com/prm NV       ,Recreation,99,7/22/2015
 1415 CHEESECAKE FACTORY #OMAHA        NE       ,Restaurants/Bars,97.85,6/27/2015
-4265 KUM & GO #760       OMAHA        NE       ,Auto/Gas,97.81,5/12/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,96.24,8/18/2015
+4265 KUM & GO #760       OMAHA        NE       ,Gas,97.81,5/12/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,96.24,8/18/2015
 1415 THE CADDY SHACK     OMAHA        NE       ,Restaurants/Bars,95.5,6/30/2015
 0145 THE CADDY SHACK     OMAHA        NE       ,Restaurants/Bars,94.83,7/10/2015
 17440044 TM *ROB ZOMBIE      4400-657-44000 IL       ,Recreation,93.11,6/17/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,90.85,7/21/2015
-4265 COSTCO WHSE #1012   OMAHA        NE       ,Grocery,90.45,5/12/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,89.85,6/16/2015
-4265 KUM & GO #760       OMAHA        NE       ,Auto/Gas,88.82,6/2/2015
-1415 KUM & GO #760       OMAHA        NE       ,Auto/Gas,86.59,6/10/2015
-1415 BUCK'S 444           OMAHA        NE       ,Auto/Gas,86.48,5/15/2015
-1415 KUM & GO #760       OMAHA        NE       ,Auto/Gas,86.04,6/24/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,90.85,7/21/2015
+4265 COSTCO WHSE #1012   OMAHA        NE       ,Groceries,90.45,5/12/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,89.85,6/16/2015
+4265 KUM & GO #760       OMAHA        NE       ,Gas,88.82,6/2/2015
+1415 KUM & GO #760       OMAHA        NE       ,Gas,86.59,6/10/2015
+1415 BUCK'S 444           OMAHA        NE       ,Gas,86.48,5/15/2015
+1415 KUM & GO #760       OMAHA        NE       ,Gas,86.04,6/24/2015
 0145 WM SUPERCENTER #4600GRETNA       NE       ,Healthcare,85.44,7/7/2015
 0145 SEPHORA 222         OMAHA        NE       ,Clothing/Retail,84.53,7/14/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,84.14,8/18/2015
-1415 KUM & GO #700440       GRETNA       NE       ,Auto/Gas,83.58,7/8/2015
-1415 HY VEE GAS 5400442     OMAHA        NE       ,Auto/Gas,82.95,7/28/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,84.14,8/18/2015
+1415 KUM & GO #700440       GRETNA       NE       ,Gas,83.58,7/8/2015
+1415 HY VEE GAS 5400442     OMAHA        NE       ,Gas,82.95,7/28/2015
 1415 SCHEELS-OMAHA       OMAHA        NE       ,Sporting Goods/Retail,81.57,7/1/2015
-1415 HY-VEE OMAHA #2 GA  OMAHA        NE       ,Grocery,81.47,6/26/2015
-1415 S&E 66              GRETNA       NE       ,Auto/Gas,81.19,7/7/2015
-1415 KUM & GO #760       OMAHA        NE       ,Auto/Gas,80.33,5/5/2015
+1415 HY-VEE OMAHA #2 GA  OMAHA        NE       ,Groceries,81.47,6/26/2015
+1415 S&E 66              GRETNA       NE       ,Gas,81.19,7/7/2015
+1415 KUM & GO #760       OMAHA        NE       ,Gas,80.33,5/5/2015
 123 Company,Paycheck,225.84,8/19/2015
 123 Company,Paycheck,234.67,5/13/2015
 123 Company,Paycheck,235.06,8/5/2015
@@ -78,43 +78,43 @@ FARMERS MUTUAL   INS PREM   AU265200445AUTO       ,Insurance ,125,8/18/2015
 123 Company,Paycheck,344.67,6/24/2015
 123 Company,Paycheck,345.73,6/10/2015
 123 Company,Paycheck,380.68,5/27/2015
-1415 S&E 66              GRETNA       NE       ,Auto/Gas,78.36,5/23/2015
-1415 SWESTRN FANTASY     OMAHA        NE       ,Auto/Gas,78.28,6/3/2015
+1415 S&E 66              GRETNA       NE       ,Gas,78.36,5/23/2015
+1415 SWESTRN FANTASY     OMAHA        NE       ,Gas,78.28,6/3/2015
 17440044 KOHL'S #0775 17550 WOMAHA        NE       ,Clothing/Retail,77,5/29/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,76.08,8/22/2015
-1415 BUCKY'S EXPRESS     BELLEVUE     NE       ,Auto/Gas,75,6/17/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,76.08,8/22/2015
+1415 BUCKY'S EXPRESS     BELLEVUE     NE       ,Gas,75,6/17/2015
 AMERICAN FUNDS   INVESTMENT 000000000447512651    ,Investment,75,5/21/2015
 AMERICAN FUNDS   INVESTMENT 000000000447512651    ,Investment,75,6/23/2015
 AMERICAN FUNDS   INVESTMENT 000000000447512651    ,Investment,75,7/22/2015
 AMERICAN FUNDS   INVESTMENT 000000000447512651    ,Investment,75,8/21/2015
 SCWF-A INVESTMEN INVESTMENT 000000000447512651    ,Investment,75,8/27/2015
-1415 S&E 66              GRETNA       NE       ,Auto/Gas,74.85,5/5/2015
+1415 S&E 66              GRETNA       NE       ,Gas,74.85,5/5/2015
 BHENERGY         WEB_PAY    0102144004444047014     ,Utilities,74.16,5/20/2015
-1415 QT 511        040051OMAHA        NE       ,Auto/Gas,73.48,7/24/2015
-1415 S&E 66              GRETNA       NE       ,Auto/Gas,73.33,6/23/2015
+1415 QT 511        040051OMAHA        NE       ,Gas,73.48,7/24/2015
+1415 S&E 66              GRETNA       NE       ,Gas,73.33,6/23/2015
 1415 JENSEN TIRE #11     OMAHA        NE       ,Auto/Travel,73,5/13/2015
 4265 WAL-MART #4600      GRETNA       NE       ,Retail,72.98,5/14/2015
 1415 RIGEL AIRPORT SERVICOMAHA        NE       ,Travel,71.88,6/3/2015
-4265 HY VEE GAS 5461     NORFOLK      NE       ,Auto/Gas,71.44,6/9/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,70.56,8/25/2015
-1415 KUM & GO #760       OMAHA        NE       ,Auto/Gas,70.17,7/14/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,70.14,8/18/2015
+4265 HY VEE GAS 5461     NORFOLK      NE       ,Gas,71.44,6/9/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,70.56,8/25/2015
+1415 KUM & GO #760       OMAHA        NE       ,Gas,70.17,7/14/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,70.14,8/18/2015
 GREAT WESTERN    BILLPAY                       ,Loan Payment,70,5/5/2015
 GREAT WESTERN    BILLPAY                       ,Loan Payment,70,6/5/2015
 GREAT WESTERN    BILLPAY                       ,Loan Payment,70,7/7/2015
 GREAT WESTERN    BILLPAY                       ,Loan Payment,70,8/5/2015
 1415 KONA GRILL OMAHA 100044OMAHA        NE       ,Restaurants/Bars,69.97,5/19/2015
 0145 JUSTICE #0645       OMAHA        NE       ,Clothing/Retail,69.78,7/28/2015
-0145 S&E 66              GRETNA       NE       ,Auto/Gas,69.01,7/17/2015
+0145 S&E 66              GRETNA       NE       ,Gas,69.01,7/17/2015
 0145 CLANCY'S PUB WEST   OMAHA        NE       ,Restaurants/Bars,69,7/28/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,68.85,8/1/2015
-0145 KUM & GO #760       OMAHA        NE       ,Auto/Gas,68.27,7/14/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,68.23,9/2/2015
-1415 PARKERS SMOKEHOUSE, ASHLAND      NE       ,Restaurants/Bars,68.19,6/2/2015
-0145 HY VEE 1400442         OMAHA        NE       ,Grocery,67.19,7/7/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,68.85,8/1/2015
+0145 KUM & GO #760       OMAHA        NE       ,Gas,68.27,7/14/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,68.23,9/2/2015
+1415 PARKERS SMOKEHOUSE ASHLAND      NE       ,Restaurants/Bars,68.19,6/2/2015
+0145 HY VEE 1400442         OMAHA        NE       ,Groceries,67.19,7/7/2015
 1415 CHILI S E-20 S20744441ST LOUIS     MO       ,Restaurants/Bars,66.89,6/4/2015
-1415 S&E 66              GRETNA       NE       ,Auto/Gas,65.79,5/27/2015
-1415 TOWN & COUNTRY 0111 SAN ANGELO   TX       ,Auto/Gas,65.68,6/6/2015
+1415 S&E 66              GRETNA       NE       ,Gas,65.79,5/27/2015
+1415 TOWN & COUNTRY 0111 SAN ANGELO   TX       ,Gas,65.68,6/6/2015
 4265 CILANTROS MEXICAN BAOMAHA        NE       ,Restaurants/Bars,65.05,5/9/2015
 17440044 DRAGON'S LAIR COMICSOMAHA        NE       ,Recreation,64.05,6/10/2015
 1415 OLD NAVY STORE 7122 OMAHA        NE       ,Clothing/Retail,64,5/12/2015
@@ -128,12 +128,12 @@ COX COMM OMA     BANK DRAFT 172106052110001    ,Utilities,62.99,8/18/2015
 1415 ANTHONYS STEAKHOUSE OMAHA        NE       ,Restaurants/Bars,60.5,7/28/2015
 0145 THE WATERFALL LOUNGEOMAHA        NE       ,Restaurants/Bars,60.38,7/15/2015
 4265 THE OLIVE GARD0001544OMAHA        NE       ,Restaurants/Bars,60.29,5/30/2015
-1415 12756 BALLPARK WAY HPAPILLION    NE       ,ATM / CASH,60,7/31/2015
-1415 1402 S. WASHINGTON SPAPILLION    NE       ,ATM / CASH,60,5/15/2015
-1415 401 SOUTH HWY. 6    GRETNA       NE       ,ATM / CASH,60,6/20/2015
-1415 4621 S 24TH STREET  OMAHA        NE       ,ATM / CASH,60,5/15/2015
-1415 54412 S 144TH        OMAHA        NE       ,ATM / CASH,60,6/25/2015
-17440044 277RD & W. MAPLE R  OMAHA        NE       ,ATM / CASH,60,5/30/2015
+1415 12756 BALLPARK WAY HPAPILLION    NE       ,ATM,60,7/31/2015
+1415 1402 S. WASHINGTON SPAPILLION    NE       ,ATM,60,5/15/2015
+1415 401 SOUTH HWY. 6    GRETNA       NE       ,ATM,60,6/20/2015
+1415 4621 S 24TH STREET  OMAHA        NE       ,ATM,60,5/15/2015
+1415 54412 S 144TH        OMAHA        NE       ,ATM,60,6/25/2015
+17440044 277RD & W. MAPLE R  OMAHA        NE       ,ATM,60,5/30/2015
 4265 NEBRASKA HUMANE SOCIOMAHA        NE       ,Charity,60,5/19/2015
 17440044 METROPOLITAN UTILITI402-5040044200044  NE       ,Utilities,59.71,8/25/2015
 1415 BEV'S ON THE RIVER  SIOUX CITY   IA       ,Recreation,59.07,7/14/2015
@@ -150,115 +150,115 @@ BHENERGY         WEB_PAY    010544711057014     ,Utilities,56.41,6/19/2015
 1415 BUFFALO WILD WINGS 0OMAHA        NE       ,Restaurants/Bars,54.52,8/6/2015
 1415 HOOTERS OF TOPEKA   TOPEKA       KS       ,Restaurants/Bars,53.91,7/21/2015
 17440044 VALVOLINE INSTANT OIOMAHA        NE       ,Auto/Travel,53.49,5/27/2015
-4265 WM SUPERCENTER #7260044OMAHA        NE       ,Grocery,52.68,5/5/2015
+4265 WM SUPERCENTER #7260044OMAHA        NE       ,Groceries,52.68,5/5/2015
 1415 TARGET        000100440044OMAHA        NE       ,Clothing/Retail,52.67,6/30/2015
 0145 WM SUPERCENTER #1147LINCOLN      NE       ,Healthcare,51.67,7/7/2015
-17440044 KWIK SHOP #0600447     OMAHA        NE       ,Auto/Gas,50.75,6/23/2015
-4265 A BS 66             OMAHA        NE       ,Auto/Gas,50.1,5/22/2015
+17440044 KWIK SHOP #0600447     OMAHA        NE       ,Gas,50.75,6/23/2015
+4265 A BS 66             OMAHA        NE       ,Gas,50.1,5/22/2015
 LINE OF CREDIT ANNUAL FEE                      ,Service Fee,50,8/6/2015
-4265 FAREWAY STORES #047 OMAHA        NE       ,Grocery,49.94,6/13/2015
+4265 FAREWAY STORES #047 OMAHA        NE       ,Groceries,49.94,6/13/2015
 17440044 LOOT CRATE          727-1115757  CA       ,Restaurants/Bars,49.6,7/23/2015
-1415 KUM & GO #700440       GRETNA       NE       ,Auto/Gas,49.37,5/9/2015
-4265 HY VEE 1400442         OMAHA        NE       ,Grocery,49.03,6/2/2015
-1415 SUPER SAVER #20     OMAHA        NE       ,Grocery,48.86,6/4/2015
+1415 KUM & GO #700440       GRETNA       NE       ,Gas,49.37,5/9/2015
+4265 HY VEE 1400442         OMAHA        NE       ,Groceries,49.03,6/2/2015
+1415 SUPER SAVER #20     OMAHA        NE       ,Groceries,48.86,6/4/2015
 1415 OLD NAVY STORE 7122 OMAHA        NE       ,Returned Purchase,12.72,5/12/2015
-1415 KUM & GO #760       OMAHA        NE       ,Auto/Gas,48.46,6/17/2015
-17440044 KUM & GO #7444       OMAHA        NE       ,Auto/Gas,48.36,7/21/2015
+1415 KUM & GO #760       OMAHA        NE       ,Gas,48.46,6/17/2015
+17440044 KUM & GO #7444       OMAHA        NE       ,Gas,48.36,7/21/2015
 0145 WAL-MART #14402      TOPEKA       KS       ,Retail,48.19,7/18/2015
-4265 WM SUPERCENTER #7260044OMAHA        NE       ,Grocery,48.03,5/23/2015
+4265 WM SUPERCENTER #7260044OMAHA        NE       ,Groceries,48.03,5/23/2015
 1415 OREILLY AUTO  000070OMAHA        NE       ,Returned Purchase,59.91,5/12/2015
-0145 KELLY EXPRESS       TOPEKA       KS       ,Auto/Gas,47.75,7/21/2015
-1415 KUM & GO #700440       GRETNA       NE       ,Auto/Gas,47.67,5/30/2015
+0145 KELLY EXPRESS       TOPEKA       KS       ,Gas,47.75,7/21/2015
+1415 KUM & GO #700440       GRETNA       NE       ,Gas,47.67,5/30/2015
 4265 JERZES              PAPILLION    NE       ,Clothing/Retail,47.05,6/19/2015
-1415 KUM & GO #700440       GRETNA       NE       ,Auto/Gas,46.95,5/23/2015
-1415 WM SUPERCENTER #7260044OMAHA        NE       ,Grocery,46.08,6/9/2015
-0145 TARGET        000272OMAHA        NE       ,Grocery,46.07,7/7/2015
+1415 KUM & GO #700440       GRETNA       NE       ,Gas,46.95,5/23/2015
+1415 WM SUPERCENTER #7260044OMAHA        NE       ,Groceries,46.08,6/9/2015
+0145 TARGET        000272OMAHA        NE       ,Groceries,46.07,7/7/2015
 4265 BATH & BODY WORKS #2OMAHA        NE       ,Healthcare,46.01,5/30/2015
 17440044 DRAGON'S LAIR COMICSOMAHA        NE       ,Recreation,45.58,7/22/2015
 17440044 KOHL'S #0775        OMAHA        NE       ,Clothing/Retail,45.37,5/12/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,45.03,5/12/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,45.03,5/12/2015
 1415 AMC OAK VIEW 24 #0044OMAHA        NE       ,Recreation,45,7/7/2015
 1415 LOWES #01151*       OMAHA        NE       ,Home Supply/Housing,44.85,6/2/2015
 0145 DILLONS #0060044       TOPEKA       KS       ,Clothing/Retail,44.59,7/21/2015
 1415 WAL-MART #7260044      OMAHA        NE       ,Retail,43.25,7/11/2015
-1415 HY VEE 1466         OMAHA        NE       ,Grocery,43.08,7/28/2015
-17440044 KWIK SHOP #0600447     OMAHA        NE       ,Auto/Gas,42.83,6/16/2015
+1415 HY VEE 1466         OMAHA        NE       ,Groceries,43.08,7/28/2015
+17440044 KWIK SHOP #0600447     OMAHA        NE       ,Gas,42.83,6/16/2015
 4265 CLAIRE'S #5004441      OMAHA        NE       ,Clothing/Retail,41.46,6/2/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,40.66,6/30/2015
-17440044 KWIK SHOP           OMAHA        NE       ,Auto/Gas,40.61,6/9/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,40.66,6/30/2015
+17440044 KWIK SHOP           OMAHA        NE       ,Gas,40.61,6/9/2015
 17440044 TEE FURY LLC        TEEFURY.COM  CA       ,Clothing/Retail,40.1,5/22/2015
 0145 THE DOCK            TOPEKA       KS       ,Restaurants/Bars,40.01,7/21/2015
-1415 401 SOUTH HWY. 6    GRETNA       NE       ,ATM / CASH,40,7/21/2015
-17440044 BUCKY'S EXPRESS #12 OMAHA        NE       ,Auto/Gas,40,8/18/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,40,9/3/2015
-4265 704 NORTH 100444TH ST  OMAHA        NE       ,ATM / CASH,40,5/5/2015
+1415 401 SOUTH HWY. 6    GRETNA       NE       ,ATM,40,7/21/2015
+17440044 BUCKY'S EXPRESS #12 OMAHA        NE       ,Gas,40,8/18/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,40,9/3/2015
+4265 704 NORTH 100444TH ST  OMAHA        NE       ,ATM,40,5/5/2015
 LAKESIDE A44004441144 BILLPAY                       ,Medical,40,5/7/2015
 LAKESIDE A44004441144 BILLPAY                       ,Medical,40,6/9/2015
 LAKESIDE A44004441144 BILLPAY                       ,Medical,40,7/7/2015
 LAKESIDE A44004441144 BILLPAY                       ,Medical,40,8/7/2015
 0145 STEAK-N-SHAKE       TOPEKA       KS       ,Restaurants/Bars,39.83,7/21/2015
-17440044 QT 514        040051OMAHA        NE       ,Auto/Gas,39.62,7/7/2015
-1415 NO FRILLS SPRMKTS 44 OMAHA        NE       ,Grocery,39.21,5/27/2015
-17440044 KWIK SHOP #0600447     OMAHA        NE       ,Auto/Gas,37.94,5/29/2015
-17440044 QT 514        040051OMAHA        NE       ,Auto/Gas,37.78,7/25/2015
-17440044 KUM & GO #7444       OMAHA        NE       ,Auto/Gas,37.44,8/25/2015
+17440044 QT 514        040051OMAHA        NE       ,Gas,39.62,7/7/2015
+1415 NO FRILLS SPRMKTS 44 OMAHA        NE       ,Groceries,39.21,5/27/2015
+17440044 KWIK SHOP #0600447     OMAHA        NE       ,Gas,37.94,5/29/2015
+17440044 QT 514        040051OMAHA        NE       ,Gas,37.78,7/25/2015
+17440044 KUM & GO #7444       OMAHA        NE       ,Gas,37.44,8/25/2015
 1415 HOME & GARDEN TRUE VOMAHA        NE       ,Home Supply/Housing,37.43,7/31/2015
 1415 THE WATERFALL LOUNGEOMAHA        NE       ,Restaurants/Bars,37.39,7/28/2015
 1415 TARGET        0002744OMAHA        NE       ,Returned Purchase,9.62,7/3/2015
 BHENERGY         WEB_PAY    0112446444000442114     ,Utilities,37.26,8/19/2015
-17440044 KUM & GO #7444       OMAHA        NE       ,Auto/Gas,36.72,6/3/2015
-17440044 KUM & GO #7444       OMAHA        NE       ,Auto/Gas,36.69,5/22/2015
-4265 HY VEE 1466         OMAHA        NE       ,Grocery,36.25,6/13/2015
+17440044 KUM & GO #7444       OMAHA        NE       ,Gas,36.72,6/3/2015
+17440044 KUM & GO #7444       OMAHA        NE       ,Gas,36.69,5/22/2015
+4265 HY VEE 1466         OMAHA        NE       ,Groceries,36.25,6/13/2015
 17440044 CULVER'S OF OMAHA   OMAHA        NE       ,Restaurants,35.37,5/16/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,35.28,6/23/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,35.28,6/23/2015
 1415 UNL ATHLETIC TKT OFF402-4004427111  NE       ,Recreation,35,5/5/2015
 0145 KONA GRILL OMAHA 100044OMAHA        NE       ,Restaurants/Bars,34.93,8/1/2015
 1415 DON & MILLIES       OMAHA        NE       ,Restaurants/Bars,34.82,5/7/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,34.6,5/23/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,34.6,6/30/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,34.6,5/23/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,34.6,6/30/2015
 1415 LIFETOUCH SPORTS    152-4426-4000 MN       ,Kids Activities,33.95,5/15/2015
 1415 MIRACLE HILL GOLF COOMAHA        NE       ,Recreation,33.86,6/2/2015
 BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2015
 0145 WAL-MART #4600      GRETNA       NE       ,Retail,33.67,7/31/2015
-4265 NO FRILLS SPRMKTS 44 OMAHA        NE       ,Grocery,33.42,6/9/2015
-17440044 QT 5445        0400544OMAHA        NE       ,Auto/Gas,33.21,5/19/2015
-17440044 HY VEE 1460044         OMAHA        NE       ,Grocery,32.15,6/2/2015
+4265 NO FRILLS SPRMKTS 44 OMAHA        NE       ,Groceries,33.42,6/9/2015
+17440044 QT 5445        0400544OMAHA        NE       ,Gas,33.21,5/19/2015
+17440044 HY VEE 1460044         OMAHA        NE       ,Groceries,32.15,6/2/2015
 1415 TARGET        0002744OMAHA        NE       ,Home Supply/Housing,32.1,5/27/2015
 1415 GRETNA AUTO 0020772 GRETNA       NE       ,Auto/Travel,32.09,5/7/2015
 1415 SCHEELS-OMAHA       OMAHA        NE       ,Sporting Goods/Retail,32.09,7/16/2015
 17440044 KOHL'S #0775        OMAHA        NE       ,Clothing/Retail,32.09,7/21/2015
 0145 HOBBY-LOBBY #0051   OMAHA        NE       ,Sporting Goods/Retail,31.4,7/16/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,31.14,6/23/2015
-4265 KUM & GO #760       OMAHA        NE       ,Auto/Gas,31.09,6/6/2015
-1415 HY VEE 1400442         OMAHA        NE       ,Grocery,31.02,6/16/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,31.14,6/23/2015
+4265 KUM & GO #760       OMAHA        NE       ,Gas,31.09,6/6/2015
+1415 HY VEE 1400442         OMAHA        NE       ,Groceries,31.02,6/16/2015
 17440044 WAL Wal-Mart Super 1OMAHA        NE       ,Retail,31.01,5/29/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,30.53,6/6/2015
-1415 NO FRILLS SPRMKTS 44 OMAHA        NE       ,Grocery,30.22,5/19/2015
-1415 WM SUPERCENTER #601 SAN ANGELO   TX       ,Grocery,30.21,6/4/2015
-17440044 W MAPLE FANTASY     OMAHA        NE       ,Auto/Gas,30.04,8/4/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,30.53,6/6/2015
+1415 NO FRILLS SPRMKTS 44 OMAHA        NE       ,Groceries,30.22,5/19/2015
+1415 WM SUPERCENTER #601 SAN ANGELO   TX       ,Groceries,30.21,6/4/2015
+17440044 W MAPLE FANTASY     OMAHA        NE       ,Gas,30.04,8/4/2015
 1415 THE WATERFALL LOUNGEOMAHA        NE       ,Restaurants/Bars,30,7/11/2015
-17440044 KUM & GO #7444       OMAHA        NE       ,Auto/Gas,30,8/11/2015
+17440044 KUM & GO #7444       OMAHA        NE       ,Gas,30,8/11/2015
 17440044 RIVERA'S MEXICAN RESOMAHA        NE       ,Restaurants/Bars,30,6/2/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,29.19,6/2/2015
-4265 MERCHANT'S #2       NORFOLK      NE       ,Auto/Gas,28.96,6/9/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,28.73,7/7/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,29.19,6/2/2015
+4265 MERCHANT'S #2       NORFOLK      NE       ,Gas,28.96,6/9/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,28.73,7/7/2015
 17440044 FIVE GUYS #NE-04644  OMAHA        NE       ,Restaurants,28.56,8/4/2015
-1415 NO FRILLS SPRMKTS 44 OMAHA        NE       ,Grocery,28.46,6/30/2015
+1415 NO FRILLS SPRMKTS 44 OMAHA        NE       ,Groceries,28.46,6/30/2015
 17440044 VICTORIA'S SECRET 07OMAHA        NE       ,Clothing/Retail,28.36,8/25/2015
-1415 CENEX CUBBY S 000440004407NELIGH       NE       ,Auto/Gas,28.09,6/10/2015
+1415 CENEX CUBBY S 000440004407NELIGH       NE       ,Gas,28.09,6/10/2015
 17440044 AMAZON MKTPLACE PMTSAMZN.COM/BIL WA       ,Returned Purchase,133.98,7/24/2015
 1415 WAL-MART #4600      GRETNA       NE       ,Retail,28.06,5/12/2015
 17440044 FIVE GUYS--NE # 04  OMAHA        NE       ,Restaurants,27.46,7/7/2015
 4265 JUSTICE #0645       OMAHA        NE       ,Clothing/Retail,27.23,6/2/2015
 1415 COLD STONE - VILLAGEOMAHA        NE       ,Restaurants/Bars,27.05,6/20/2015
-17440044 HY VEE 1400440         OMAHA        NE       ,Grocery,26.75,6/6/2015
+17440044 HY VEE 1400440         OMAHA        NE       ,Groceries,26.75,6/6/2015
 1415 SCHEELS-OMAHA       OMAHA        NE       ,Sporting Goods/Retail,26.74,5/13/2015
 17440044 VILLAGE-INN-REST #044OMAHA        NE       ,Restaurants/Bars,26.48,5/12/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,26.35,6/13/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,26.01,7/7/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,26.35,6/13/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,26.01,7/7/2015
 4265 SCHEELS-OMAHA       OMAHA        NE       ,Sporting Goods/Retail,26,5/12/2015
-4265 HY VEE 1400442         OMAHA        NE       ,Grocery,25.56,5/8/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,25.55,7/28/2015
+4265 HY VEE 1400442         OMAHA        NE       ,Groceries,25.56,5/8/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,25.55,7/28/2015
 4265 STORIESCOFFEEHOUSE  OMAHA        NE       ,Restaurants/Bars,25.29,5/27/2015
 1415 JIMMY JOHN'S # 10644 OMAHA        NE       ,Restaurants,25.18,5/22/2015
 1415 BIG FRED'S          OMAHA        NE       ,Restaurants/Bars,25.11,7/28/2015
@@ -277,41 +277,41 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2015
 17440044 DRAGON'S LAIR COMICSOMAHA        NE       ,Recreation,23.5,8/19/2015
 0145 ON THE BORDER       TOPEKA       KS       ,Restaurants/Bars,23.44,7/18/2015
 1415 LITTLE CAESARS PIZZAOMAHA        NE       ,Restaurants,23.36,6/11/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,23.2,5/27/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,23.2,5/27/2015
 4265 WALGREENS           OMAHA        NE       ,Pharmacy,23.2,5/8/2015
 0145 WALGREENS #5166     OMAHA        NE       ,Healthcare,23.18,7/7/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,23.18,7/28/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,23.18,7/28/2015
 17440044 FIVE GUYS--NE # 04  OMAHA        NE       ,Restaurants,22.88,5/27/2015
 17440044 DRAGON'S LAIR COMICSOMAHA        NE       ,Recreation,22.72,6/17/2015
 4265 WAL-MART #4600      GRETNA       NE       ,Retail,22.71,5/27/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,22.57,5/21/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,22.57,5/21/2015
 4265 TACO BELL 00020002441OMAHA        NE       ,Restaurants,22.55,6/16/2015
 17440044 20 GRAND CINEMAS-245OMAHA        NE       ,Recreation,22.5,5/20/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,22.49,7/14/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,22.49,7/14/2015
 4265 FAMILY VIDEO #5440044   OMAHA        NE       ,Recreation,22.25,5/19/2015
-1415 KUM & GO #760       OMAHA        NE       ,Auto/Gas,22.21,5/27/2015
+1415 KUM & GO #760       OMAHA        NE       ,Gas,22.21,5/27/2015
 17440044 DRAGON'S LAIR COMICSOMAHA        NE       ,Recreation,21.97,6/24/2015
 1415 PINKIE'S SHERWOOD   SAN ANGELO   TX       ,Restaurants/Bars,21.42,6/6/2015
 17440044 PETCO 2440044           OMAHA        NE       ,Pet,21.39,5/27/2015
 1415 WAL-MART #7260044      OMAHA        NE       ,Retail,21.38,5/19/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,21.35,6/20/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,21.35,6/20/2015
 0145 JIMMY JOHN'S # 1172 SIOUX CITY   IA       ,Restaurants/Bars,21.34,7/15/2015
 4265 WALGREENS           OMAHA        NE       ,Pharmacy,20.99,5/8/2015
 17440044 WAL Wal-Mart Super 44OMAHA        NE       ,Retail,20.78,5/21/2015
 4265 SONIC DRIVE IN #5140044GRETNA       NE       ,Restaurants,20.51,5/23/2015
 1415 ARBYS 44710          GRETNA       NE       ,Restaurants/Bars,20.44,6/30/2015
 1415 MENARDS 70644        OMAHA        NE       ,Home Supply/Housing,20.28,5/15/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,20.26,6/11/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,20.24,8/29/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,20.17,7/28/2015
-1415 2605 S 177RD        OMAHA        NE       ,ATM / CASH,20,5/28/2015
-1415 2625 S 100445TH STREET OMAHA        NE       ,ATM / CASH,20,7/28/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,20.26,6/11/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,20.24,8/29/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,20.17,7/28/2015
+1415 2605 S 177RD        OMAHA        NE       ,ATM,20,5/28/2015
+1415 2625 S 100445TH STREET OMAHA        NE       ,ATM,20,7/28/2015
 1415 WAX ON              OMAHA        NE       ,Auto/Travel,20,7/11/2015
-17440044 17710 WEST MAPLE W  OMAHA        NE       ,ATM / CASH,20,6/24/2015
+17440044 17710 WEST MAPLE W  OMAHA        NE       ,ATM,20,6/24/2015
 17440044 20 GRAND CINEMAS-245OMAHA        NE       ,Recreation,20,8/4/2015
-17440044 KWIK SHOP #0600447     OMAHA        NE       ,Auto/Gas,20,7/1/2015
-4265 100 E. LOCUST STREETCARTER LAKE  IA       ,ATM / CASH,20,6/16/2015
-4265 HY VEE 1400442         OMAHA        NE       ,Grocery,19.8,5/5/2015
+17440044 KWIK SHOP #0600447     OMAHA        NE       ,Gas,20,7/1/2015
+4265 100 E. LOCUST STREETCARTER LAKE  IA       ,ATM,20,6/16/2015
+4265 HY VEE 1400442         OMAHA        NE       ,Groceries,19.8,5/5/2015
 1415 FETAS GYROS         OMAHA        NE       ,Restaurants,19.74,5/12/2015
 1415 AMC OAK VIEW 24 #0044OMAHA        NE       ,Recreation,19.5,8/6/2015
 1415 AUTOZONE #1640044      OMAHA        NE       ,Auto/Travel,19.25,5/5/2015
@@ -322,25 +322,25 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2015
 17440044 NETFLIX.COM         NETFLIX.COM  CA       ,Recreation,19.24,8/1/2015
 17440044 NETFLIX.COM         NETFLIX.COM  CA       ,Recreation,19.24,9/2/2015
 1415 SONIC DRIVE IN #4771OMAHA        NE       ,Restaurants,19.15,5/12/2015
-4265 WM SUPERCENTER #601 SAN ANGELO   TX       ,Grocery,19.02,6/5/2015
+4265 WM SUPERCENTER #601 SAN ANGELO   TX       ,Groceries,19.02,6/5/2015
 0145 HARVEY'S STIR COVE  COUNCIL BLUF IA       ,Vacation,19,7/25/2015
 17440044 20 GRAND CINEMAS-245OMAHA        NE       ,Recreation,19,5/27/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,18.97,5/30/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,18.88,5/12/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,18.66,6/9/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,18.97,5/30/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,18.88,5/12/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,18.66,6/9/2015
 1415 CHICK-FIL-A #02100444  PAPILLION    NE       ,Restaurants/Bars,18.59,7/14/2015
 1415 OMAHA ZOO ONSITE    OMAHA        NE       ,Charity,18.5,6/16/2015
-17440044 TARGET        0002744OMAHA        NE       ,Grocery,18.39,6/2/2015
+17440044 TARGET        0002744OMAHA        NE       ,Groceries,18.39,6/2/2015
 17440044 WAL-MART #41744      OMAHA        NE       ,Retail,18.22,7/28/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,18.21,5/27/2015
-1415 SHELL OIL 5004454551004410SANTO        TX       ,Auto/Gas,18.02,6/5/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,18.21,5/27/2015
+1415 SHELL OIL 5004454551004410SANTO        TX       ,Gas,18.02,6/5/2015
 1415 AMPCO PARKING EPPLEYOMAHA        NE       ,Parking,18,6/9/2015
 1415 TIBURON GOLF CLUB - OMAHA        NE       ,Recreation,18,7/11/2015
 17440044 ARBYS 6742          OMAHA        NE       ,Restaurants,17.72,7/17/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,17.61,5/5/2015
-4265 HY VEE 1400442         OMAHA        NE       ,Grocery,17.54,5/23/2015
-17440044 BAKERS #0711        OMAHA        NE       ,Grocery,17.46,6/20/2015
-1415 HY VEE 1400442         OMAHA        NE       ,Grocery,17.35,7/30/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,17.61,5/5/2015
+4265 HY VEE 1400442         OMAHA        NE       ,Groceries,17.54,5/23/2015
+17440044 BAKERS #0711        OMAHA        NE       ,Groceries,17.46,6/20/2015
+1415 HY VEE 1400442         OMAHA        NE       ,Groceries,17.35,7/30/2015
 17440044 JADE GARDEN         OMAHA        NE       ,Restaurants/Bars,17.22,5/19/2015
 17440044 JADE GARDEN         OMAHA        NE       ,Restaurants/Bars,17.22,6/23/2015
 17440044 JADE GARDEN         OMAHA        NE       ,Restaurants/Bars,17.22,7/21/2015
@@ -349,16 +349,16 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2015
 17440044 ARBYS 6742          OMAHA        NE       ,Restaurants,16.87,5/12/2015
 1415 WAL-MART #5761      OMAHA        NE       ,Retail,16.82,6/19/2015
 1415 MENARDS 7270 ELKHORNELKHORN      NE       ,Home Supply/Housing,16.78,5/27/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,16.38,6/25/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,16.38,6/25/2015
 1415 WALGREENS #5110     OMAHA        NE       ,Medical,16.35,6/16/2015
 0145 MCDONALD'S F0044064    SOUTH SIOUX  NE       ,Restaurants,16.23,7/14/2015
 17440044 ARBYS 6742          OMAHA        NE       ,Restaurants,15.86,7/7/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,15.85,7/24/2015
-17440044 KUM & GO #7444       OMAHA        NE       ,Auto/Gas,15.79,8/1/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,15.85,7/24/2015
+17440044 KUM & GO #7444       OMAHA        NE       ,Gas,15.79,8/1/2015
 1415 RUSTY TACO HARRY HINDALLAS       TX       ,Restaurants,15.7,6/9/2015
 1415 WAL-MART #7260044      OMAHA        NE       ,Retail,15.69,5/27/2015
 17440044 KRISPY KREME #155   OMAHA        NE       ,Restaurants,15.54,8/4/2015
-1415 QT 5440044        0400544OMAHA        NE       ,Auto/Gas,15.51,5/12/2015
+1415 QT 5440044        0400544OMAHA        NE       ,Gas,15.51,5/12/2015
 17440044 ARBYS 6742          OMAHA        NE       ,Restaurants,15.42,7/28/2015
 17440044 DOMINO'S 6111       OMAHA        NE       ,Restaurants,15.33,7/29/2015
 17440044 ARBYS 6742          OMAHA        NE       ,Restaurants,15.21,6/27/2015
@@ -375,11 +375,11 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2015
 1415 WALGREENS #5166     OMAHA        NE       ,Medical,14.87,6/20/2015
 4265 RUNZA HARRISON      OMAHA        NE       ,Restaurants,14.75,5/19/2015
 0145 VILLAGE-INN-REST #044OMAHA        NE       ,Restaurants/Bars,14.74,7/14/2015
-1415 CASEY'S GENL STORE  GRETNA       NE       ,Auto/Gas,14.49,6/23/2015
+1415 CASEY'S GENL STORE  GRETNA       NE       ,Gas,14.49,6/23/2015
 1415 HANCOCK FABRICS 164444OMAHA        NE       ,Clothing/Retail,14.41,5/16/2015
 17440044 DRAGON'S LAIR COMICSOMAHA        NE       ,Recreation,14.41,7/29/2015
 0145 PARLIAMENT PUB      OMAHA        NE       ,Restaurants/Bars,14.25,7/14/2015
-1415 WM SUPERCENTER #4600GRETNA       NE       ,Grocery,14.01,6/23/2015
+1415 WM SUPERCENTER #4600GRETNA       NE       ,Groceries,14.01,6/23/2015
 17440044 TEE FURY LLC        TEEFURY.COM  CA       ,Clothing/Retail,14,6/9/2015
 17440044 TEE FURY LLC        TEEFURY.COM  CA       ,Clothing/Retail,14,6/17/2015
 17440044 TEE FURY LLC        TEEFURY.COM  CA       ,Clothing/Retail,14,6/18/2015
@@ -387,8 +387,8 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2015
 1415 SPORTS AUTHORI000062OMAHA        NE       ,Sporting Goods/Retail,13.9,6/20/2015
 1415 SUBWAY        004276OMAHA        NE       ,Restaurants,13.88,6/16/2015
 17440044 LEGENDCOMICSCOFFEE  OMAHA        NE       ,Restaurants/Bars,13.84,5/5/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,13.7,8/26/2015
-17440044 HY VEE 1400440         OMAHA        NE       ,Grocery,13.67,7/17/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,13.7,8/26/2015
+17440044 HY VEE 1400440         OMAHA        NE       ,Groceries,13.67,7/17/2015
 17440044 WAL Wal-Mart Super 0044OMAHA        NE       ,Retail,13.54,6/9/2015
 1415 THE WATERFALL LOUNGEOMAHA        NE       ,Restaurants/Bars,13.5,7/28/2015
 17440044 MCDONALD'S F10117   OMAHA        NE       ,Restaurants,13.46,9/2/2015
@@ -398,11 +398,11 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2015
 4265 CHICK-FIL-A #07020044  BELLEVUE     NE       ,Restaurants,12.71,6/2/2015
 17440044 ARBYS 6742          OMAHA        NE       ,Restaurants,12.69,5/30/2015
 1415 LOWES #011444*       OMAHA        NE       ,Home Supply/Housing,12.57,7/28/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,12.56,6/30/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,12.56,6/30/2015
 1415 SCOOTERS COFFEEHOUSEOMAHA        NE       ,Restaurants/Bars,12.17,7/11/2015
 17440044 MCDONALD'S F100440044446   OMAHA        NE       ,Restaurants,12.13,6/20/2015
 1415 CHEDDAR'S #620      OMAHA        NE       ,Restaurants/Bars,12.07,5/14/2015
-17440044 BAKERS #0702        OMAHA        NE       ,Grocery,12.03,5/12/2015
+17440044 BAKERS #0702        OMAHA        NE       ,Groceries,12.03,5/12/2015
 1415 CABELAS RETAIL LAVISLAVISTA      NE       ,Sporting Goods/Retail,12,8/6/2015
 17440044 MCDONALD'S F100440044446   OMAHA        NE       ,Restaurants,11.95,5/5/2015
 17440044 DRAGON'S LAIR COMICSOMAHA        NE       ,Recreation,11.86,8/4/2015
@@ -412,43 +412,43 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2015
 17440044 THE NE MED CTR - CLAOMAHA        NE       ,Doctor/Healthcare,11.5,7/7/2015
 17440044 THE NE MED CTR - C-SOMAHA        NE       ,Doctor/Healthcare,11.45,6/23/2015
 17440044 TACO BELL 00020002447OMAHA        NE       ,Restaurants,11.32,6/9/2015
-1415 MCKINNEY'S FOOD CEN GRETNA       NE       ,Grocery,11.17,5/22/2015
+1415 MCKINNEY'S FOOD CEN GRETNA       NE       ,Groceries,11.17,5/22/2015
 17440044 BURGER KING #12560044  OMAHA        NE       ,Restaurants,11.14,7/14/2015
 0145 WHITE HOUSE BLK MKT OMAHA        NE       ,Clothing/Retail,10.97,7/14/2015
 17440044 TACO BELL 0021002122OMAHA        NE       ,Restaurants,10.97,6/30/2015
-1415 WM SUPERCENTER #4600GRETNA       NE       ,Grocery,10.96,5/9/2015
-1415 NO FRILLS SPRMKTS 44 OMAHA        NE       ,Grocery,10.89,7/28/2015
+1415 WM SUPERCENTER #4600GRETNA       NE       ,Groceries,10.96,5/9/2015
+1415 NO FRILLS SPRMKTS 44 OMAHA        NE       ,Groceries,10.89,7/28/2015
 17440044 MCDONALD'S F100440044446   OMAHA        NE       ,Restaurants,10.89,8/8/2015
 1415 WAL-MART #7260044      OMAHA        NE       ,Retail,10.79,7/28/2015
 17440044 RUNZA EMMET         OMAHA        NE       ,Restaurants,10.72,6/9/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,10.64,9/2/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,10.64,9/2/2015
 4265 MARCOS PIZZA - 7505 OMAHA        NE       ,Restaurants,10.6,5/19/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,10.5,9/2/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,10.5,9/2/2015
 17440044 MCDONALD'S F100440044446   OMAHA        NE       ,Restaurants,10.39,5/23/2015
 17440044 SONIC DRIVE IN #45440044OMAHA        NE       ,Restaurants,10.33,5/15/2015
 17440044 MCDONALD'S F6004476    OMAHA        NE       ,Restaurants,10.28,7/28/2015
 17440044 MCDONALD'S F6004476    OMAHA        NE       ,Restaurants,10.28,8/4/2015
 4265 MCDONALD'S M0044542 OF BELLEVUE     NE       ,Restaurants,10.21,6/2/2015
-17440044 DILLONS             OMAHA        NE       ,Grocery,10.07,6/17/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,10.05,7/28/2015
+17440044 DILLONS             OMAHA        NE       ,Groceries,10.07,6/17/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,10.05,7/28/2015
 1415 TWO FINE IRISHMEN   OMAHA        NE       ,Restaurants/Bars,10,7/28/2015
 1415 WASH WIZARD LLC     OMAHA        NE       ,Auto/Travel,10,6/30/2015
-1415 SUPER SAVER #20     OMAHA        NE       ,Grocery,9.96,7/25/2015
-17440044 BUCKY'S EXPRESS #12 OMAHA        NE       ,Auto/Gas,9.93,5/27/2015
+1415 SUPER SAVER #20     OMAHA        NE       ,Groceries,9.96,7/25/2015
+17440044 BUCKY'S EXPRESS #12 OMAHA        NE       ,Gas,9.93,5/27/2015
 17440044 Amazon.com          AMZN.COM/BIL WA       ,Recreation,9.81,8/28/2015
 1415 KMART 0044417          OMAHA        NE       ,Clothing/Retail,9.75,8/1/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,9.75,7/30/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,9.75,7/30/2015
 17440044 SCOOTERS COFFEEHOUSEOMAHA        NE       ,Restaurants/Bars,9.54,5/13/2015
 17440044 BURGER KING #5414   OMAHA        NE       ,Restaurants,9.49,8/22/2015
 17440044 TACO BELL 00020002447OMAHA        NE       ,Restaurants,9.41,7/8/2015
 1415 MCDONALD'S F16004440   GRETNA       NE       ,Restaurants,9.39,5/12/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,9.37,6/23/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,9.37,6/13/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,9.29,7/3/2015
-1415 WM SUPERCENTER #4600GRETNA       NE       ,Grocery,9.2,5/13/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,9.18,5/5/2015
-17440044 HILSBRG FANTASY     OMAHA        NE       ,Auto/Gas,9.15,6/16/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,9.06,7/28/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,9.37,6/23/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,9.37,6/13/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,9.29,7/3/2015
+1415 WM SUPERCENTER #4600GRETNA       NE       ,Groceries,9.2,5/13/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,9.18,5/5/2015
+17440044 HILSBRG FANTASY     OMAHA        NE       ,Gas,9.15,6/16/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,9.06,7/28/2015
 17440044 AMAZON MKTPLACE PMTSAMZN.COM/BIL WA       ,Recreation,8.99,8/18/2015
 17440044 KRISPY KREME #155   OMAHA        NE       ,Restaurants,8.99,6/24/2015
 1415 BRONCO'S 120TH STR  OMAHA        NE       ,Restaurants/Bars,8.98,7/25/2015
@@ -460,11 +460,11 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2015
 17440044 GROUND ZERO COMIC   OMAHA        NE       ,Recreation,8.55,6/23/2015
 1415 THE HOME DEPOT #7207OMAHA        NE       ,Home Supply/Housing,8.53,5/15/2015
 1415 WAL-MART #4600      GRETNA       NE       ,Retail,8.48,7/28/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,8.47,6/23/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,8.47,6/23/2015
 17440044 WAL-MART #41744      OMAHA        NE       ,Retail,8.43,5/29/2015
 17440044 CULVER'S OF OMAHA   OMAHA        NE       ,Restaurants,8.2,5/16/2015
-17440044 HY VEE 1400441         OMAHA        NE       ,Grocery,8.12,7/9/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,8.06,6/4/2015
+17440044 HY VEE 1400441         OMAHA        NE       ,Groceries,8.12,7/9/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,8.06,6/4/2015
 17440044 HLU*Hulu 410144710044-U HULU.COM/BIL CA       ,Recreation,7.99,6/2/2015
 17440044 HLU*Hulu 410144710044-U HULU.COM/BIL CA       ,Recreation,7.99,7/2/2015
 17440044 HLU*Hulu 410144710044-U HULU.COM/BIL CA       ,Recreation,7.99,8/1/2015
@@ -472,20 +472,20 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2015
 1415 DAIRY QUEEN #41077  LINCOLN      NE       ,Restaurants/Bars,7.95,6/16/2015
 17440044 WAL Wal-Mart Super 0OMAHA        NE       ,Retail,7.84,6/23/2015
 1415 RUNZA 172ND         OMAHA        NE       ,Restaurants,7.78,7/31/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,7.74,7/14/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,7.74,7/14/2015
 17440044 TACO BELL 00020002447OMAHA        NE       ,Restaurants,7.74,5/5/2015
 1415 SUBWAY        004276OMAHA        NE       ,Restaurants,7.68,5/19/2015
 17440044 BURGER KING #4400    OMAHA        NE       ,Restaurants,7.65,7/21/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,7.57,7/9/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,7.57,6/16/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,7.57,7/9/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,7.57,6/16/2015
 17440044 WALGREENS 2121 N. 60OMAHA        NE       ,Healthcare,7.57,7/28/2015
 17440044 MCDONALD'S F100440044446   OMAHA        NE       ,Restaurants,7.54,7/11/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,7.52,5/29/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,7.52,5/29/2015
 17440044 TACO BELL 00020002447OMAHA        NE       ,Restaurants,7.51,8/1/2015
 1415 SPORTS AUTHORI000062OMAHA        NE       ,Sporting Goods/Retail,7.49,6/25/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,7.27,8/4/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,7.27,8/4/2015
 17440044 TACO BELL 00020002447OMAHA        NE       ,Restaurants,7.19,6/13/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,7.17,7/23/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,7.17,7/23/2015
 1415 DON & MILLIES       OMAHA        NE       ,Restaurants/Bars,7.16,6/2/2015
 17440044 Amazon.com          AMZN.COM/BIL WA       ,Recreation,7.14,5/15/2015
 1415 SUBWAY        004276OMAHA        NE       ,Restaurants,7.13,6/19/2015
@@ -493,42 +493,42 @@ BHENERGY         WEB_PAY    01012557062004414     ,Utilities,33.79,7/17/2015
 17440044 PLAYSTATION SONYENTE4400-745-0044661 CA       ,Recreation,6.99,6/4/2015
 1415 X-STREAM CAR & DOG WGRETNA       NE       ,Auto/Travel,6.9,5/19/2015
 17440044 TACO BELL 00020002447OMAHA        NE       ,Restaurants,6.9,7/2/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,6.77,5/28/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,6.68,7/17/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,6.77,5/28/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,6.68,7/17/2015
 1415 BURGER KING #4401    OMAHA        NE       ,Restaurants,6.67,7/7/2015
 17440044 THE NE MED CTR - CLAOMAHA        NE       ,Doctor/Healthcare,6.61,8/18/2015
 1415 SUBWAY        002566OMAHA        NE       ,Restaurants,6.58,7/9/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,6.58,6/16/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,6.58,6/16/2015
 1415 CHICK-FIL-A #02100444  PAPILLION    NE       ,Restaurants/Bars,6.52,5/29/2015
-1415 DOLRTREE 24406 0002440OMAHA        NE       ,Grocery,6.42,7/11/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,6.38,6/12/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,6.32,8/4/2015
-4265 E-14 AUNTIE AN20744544SAINT LOUIS  MO       ,Auto/Gas,6.08,6/9/2015
+1415 DOLRTREE 24406 0002440OMAHA        NE       ,Groceries,6.42,7/11/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,6.38,6/12/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,6.32,8/4/2015
+4265 E-14 AUNTIE AN20744544SAINT LOUIS  MO       ,Gas,6.08,6/9/2015
 0145 TWO FINE IRISHMEN   OMAHA        NE       ,Restaurants/Bars,6,7/28/2015
-4265 HARRISON FANTASY    OMAHA        NE       ,Auto/Gas,5.98,6/10/2015
+4265 HARRISON FANTASY    OMAHA        NE       ,Gas,5.98,6/10/2015
 17440044 THE NE MED CTR - CLAOMAHA        NE       ,Doctor/Healthcare,5.97,6/2/2015
 17440044 THE NE MED CTR - CLAOMAHA        NE       ,Doctor/Healthcare,5.96,8/1/2015
-17440044 BAKERS #0701        OMAHA        NE       ,Grocery,5.94,6/2/2015
-17440044 BAG N SAVE #0044445     OMAHA        NE       ,Grocery,5.79,8/26/2015
+17440044 BAKERS #0701        OMAHA        NE       ,Groceries,5.94,6/2/2015
+17440044 BAG N SAVE #0044445     OMAHA        NE       ,Groceries,5.79,8/26/2015
 17440044 TACO BELL 00020002441OMAHA        NE       ,Restaurants,5.78,7/30/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,5.78,6/20/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,5.78,6/20/2015
 1415 SUBWAY        004276OMAHA        NE       ,Restaurants,5.76,7/3/2015
 1415 SUBWAY        004276OMAHA        NE       ,Restaurants,5.76,7/28/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,5.76,7/14/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,5.74,5/27/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,5.76,7/14/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,5.74,5/27/2015
 1415 TACO BELL 00020002004444OMAHA        NE       ,Restaurants,5.69,6/23/2015
 17440044 BURGER KING #7174   OMAHA        NE       ,Restaurants,5.66,6/23/2015
 17440044 THE NE MED CTR - CLAOMAHA        NE       ,Doctor/Healthcare,5.64,7/28/2015
 17440044 THE NE MED CTR - CLAOMAHA        NE       ,Doctor/Healthcare,5.54,8/4/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,5.34,6/12/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,5.34,6/12/2015
 17440044 TARGET        000057OMAHA        NE       ,Clothing/Retail,5.12,5/19/2015
 17440044 THE NE MED CTR - C-SOMAHA        NE       ,Doctor/Healthcare,5.12,5/29/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,5,8/11/2015
-17440044 BAKERS #0701        OMAHA        NE       ,Grocery,4.99,6/20/2015
-17440044 TARGET        000057OMAHA        NE       ,Grocery,4.77,5/12/2015
-17440044 KUM & GO #761       OMAHA        NE       ,Auto/Gas,4.75,6/30/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,4.69,8/12/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,4.68,7/14/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,5,8/11/2015
+17440044 BAKERS #0701        OMAHA        NE       ,Groceries,4.99,6/20/2015
+17440044 TARGET        000057OMAHA        NE       ,Groceries,4.77,5/12/2015
+17440044 KUM & GO #761       OMAHA        NE       ,Gas,4.75,6/30/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,4.69,8/12/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,4.68,7/14/2015
 ABC Company,Paycheck,927.52,5/9/2015
 ABC Company,Paycheck,937.06,8/1/2015
 ABC Company,Paycheck,989.43,6/6/2015
@@ -538,305 +538,305 @@ ABC Company,Paycheck,1069.14,5/23/2015
 ABC Company,Paycheck,1098.53,8/29/2015
 ABC Company,Paycheck,1102.81,7/18/2015
 ABC Company,Paycheck,1199.65,8/15/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,4.64,6/27/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,4.64,6/27/2015
 17440044 THE NE MED CTR - CLAOMAHA        NE       ,Doctor/Healthcare,4.58,5/12/2015
 17440044 THE NE MED CTR - CLAOMAHA        NE       ,Doctor/Healthcare,4.58,5/21/2015
 17440044 THE NE MED CTR - CLAOMAHA        NE       ,Doctor/Healthcare,4.37,6/19/2015
-17440044 KUM & GO #7444       OMAHA        NE       ,Auto/Gas,4.28,7/22/2015
+17440044 KUM & GO #7444       OMAHA        NE       ,Gas,4.28,7/22/2015
 17440044 THE NE MED CTR - C-SOMAHA        NE       ,Doctor/Healthcare,4.28,7/24/2015
 17440044 WAL Wal-Mart Super 6OMAHA        NE       ,Retail,4.27,6/9/2015
 1415 WAL-MART #7157      OMAHA        NE       ,Retail,4.19,7/9/2015
 17440044 DAIRY QUEEN #176441  OMAHA        NE       ,Restaurants,4.05,6/30/2015
 17440044 TARGET        000057OMAHA        NE       ,Clothing/Retail,4.03,5/15/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,4,6/6/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,4,7/7/2015
-17440044 KUM & GO #7444       OMAHA        NE       ,Auto/Gas,4,9/2/2015
-17440044 QT 5445        0400544OMAHA        NE       ,Auto/Gas,3.98,8/29/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,4,6/6/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,4,7/7/2015
+17440044 KUM & GO #7444       OMAHA        NE       ,Gas,4,9/2/2015
+17440044 QT 5445        0400544OMAHA        NE       ,Gas,3.98,8/29/2015
 17440044 THE NE MED CTR - C-SOMAHA        NE       ,Doctor/Healthcare,3.98,6/4/2015
-17440044 KWIK SHOP #0600447     OMAHA        NE       ,Auto/Gas,3.82,9/2/2015
-17440044 PMC-111 ATM SURCHARGOMAHA        NE       ,ATM / CASH,3.75,5/30/2015
-1415 BUCKY'S EXPRESS 61. OMAHA        NE       ,Auto/Gas,3.46,7/29/2015
-17440044 KUM & GO #7444       OMAHA        NE       ,Auto/Gas,3.37,5/13/2015
+17440044 KWIK SHOP #0600447     OMAHA        NE       ,Gas,3.82,9/2/2015
+17440044 PMC-111 ATM SURCHARGOMAHA        NE       ,ATM,3.75,5/30/2015
+1415 BUCKY'S EXPRESS 61. OMAHA        NE       ,Gas,3.46,7/29/2015
+17440044 KUM & GO #7444       OMAHA        NE       ,Gas,3.37,5/13/2015
 0145 THE FARM HOUSE CAFE OMAHA        NE       ,Restaurants/Bars,3.27,7/9/2015
-17440044 QT 5445        0400544OMAHA        NE       ,Auto/Gas,3.27,6/30/2015
-17440044 KWIK SHOP #0600442    QRALSTON      NE       ,Auto/Gas,3.2,5/28/2015
+17440044 QT 5445        0400544OMAHA        NE       ,Gas,3.27,6/30/2015
+17440044 KWIK SHOP #0600442    QRALSTON      NE       ,Gas,3.2,5/28/2015
 17440044 THE NE MED CTR - CLAOMAHA        NE       ,Doctor/Healthcare,3.2,6/30/2015
 1415 MENARDS 70644        OMAHA        NE       ,Home Supply/Housing,3.18,7/31/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,3.15,8/19/2015
-17440044 TARGET        000212OMAHA        NE       ,Grocery,3.02,7/21/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,3,6/4/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,3.15,8/19/2015
+17440044 TARGET        000212OMAHA        NE       ,Groceries,3.02,7/21/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,3,6/4/2015
 NON-FIRST NATIONAL BANK ATM FEE                ,ATM FEE,3,5/5/2015
 NON-FIRST NATIONAL BANK ATM FEE                ,ATM FEE,3,5/15/2015
 NON-FIRST NATIONAL BANK ATM FEE                ,ATM FEE,3,6/16/2015
 NON-FIRST NATIONAL BANK ATM FEE                ,ATM FEE,3,7/10/2015
 NON-FIRST NATIONAL BANK ATM FEE                ,ATM FEE,3,7/31/2015
 NON-FIRST NATIONAL BANK ATM FEE                ,ATM FEE,3,8/4/2015
-17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Auto/Gas,2.99,6/19/2015
-17440044 W MAPLE FANTASY     OMAHA        NE       ,Auto/Gas,2.99,7/28/2015
+17440044 BUCKY'S EXPRESS #72 OMAHA        NE       ,Gas,2.99,6/19/2015
+17440044 W MAPLE FANTASY     OMAHA        NE       ,Gas,2.99,7/28/2015
 17440044 TACO BELL 00020002447OMAHA        NE       ,Restaurants,2.83,7/8/2015
 17440044 THE NE MED CTR - CLAOMAHA        NE       ,Doctor/Healthcare,2.77,8/22/2015
 1415 WAL-MART #5761      OMAHA        NE       ,Retail,2.74,5/7/2015
-1415 PMC-111 ATM SURCHARGOMAHA        NE       ,ATM / CASH,2.5,7/10/2015
-1415 PMC-111 ATM SURCHARGPAPILLION    NE       ,ATM / CASH,2.5,5/15/2015
-4265 PMC-111 ATM SURCHARGCARTER LAKE  IA       ,ATM / CASH,2.5,6/16/2015
-4265 PMC-111 ATM SURCHARGOMAHA        NE       ,ATM / CASH,2.5,5/5/2015
+1415 PMC-111 ATM SURCHARGOMAHA        NE       ,ATM,2.5,7/10/2015
+1415 PMC-111 ATM SURCHARGPAPILLION    NE       ,ATM,2.5,5/15/2015
+4265 PMC-111 ATM SURCHARGCARTER LAKE  IA       ,ATM,2.5,6/16/2015
+4265 PMC-111 ATM SURCHARGOMAHA        NE       ,ATM,2.5,5/5/2015
 17440044 Amazon Services-Kind4466-216-1000442 WA       ,Recreation,1.93,6/20/2015
-1415 KUM & GO #700440       GRETNA       NE       ,Auto/Gas,1.68,5/30/2015
-1415 CHEVRON 00207770    SAN ANGELO   TX       ,Auto/Gas,1.61,6/6/2015
-1415 PMC-111 ATM SURCHARGPAPILLION    NE       ,ATM / CASH,1.5,7/31/2015
-17440044 BAKERS #0715        OMAHA        NE       ,Grocery,1.25,8/11/2015
+1415 KUM & GO #700440       GRETNA       NE       ,Gas,1.68,5/30/2015
+1415 CHEVRON 00207770    SAN ANGELO   TX       ,Gas,1.61,6/6/2015
+1415 PMC-111 ATM SURCHARGPAPILLION    NE       ,ATM,1.5,7/31/2015
+17440044 BAKERS #0715        OMAHA        NE       ,Groceries,1.25,8/11/2015
 4265 AMPCO PARKING EPPLEYOMAHA        NE       ,Parking,1,6/16/2015
 17440044 TACO BELL 00020002447OMAHA        NE       ,Restaurants,0.49,6/5/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/7/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/13/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/15/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/6/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/7/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/20/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/4/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/25/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/17/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/22/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/5/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/15/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/28/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/8/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/4/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/9/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/6/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/1/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/16/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,1/29/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/21/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/18/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/28/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/22/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/28/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/19/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/27/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/12/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/17/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/5/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/12/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/2/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/19/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/22/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/5/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/26/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/16/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/17/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/4/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,2/13/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/7/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/6/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/26/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/22/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/25/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/12/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/17/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/19/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/2/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/4/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/6/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/21/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/19/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/29/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/1/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,3/17/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/22/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/26/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/6/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/24/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/4/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/29/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/28/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/17/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/14/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/5/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/8/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/27/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/12/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/8/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/14/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/17/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/16/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/4/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/15/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/14/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/25/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,4/16/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/25/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/7/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/24/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/14/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/17/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/6/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/0/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/27/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/13/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/24/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/23/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/6/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/1/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/8/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/18/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/25/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/20/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/23/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/20/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,5/4/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/30/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/22/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/12/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/23/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/21/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/25/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/16/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/8/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/16/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/22/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/28/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/2/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/9/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/19/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/13/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/20/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/21/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/25/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,6/10/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/6/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/6/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/8/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/2/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/28/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/4/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/20/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/1/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/20/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/23/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/22/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/29/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/0/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/26/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/21/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/5/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/20/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/26/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,7/23/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/9/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/16/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/2/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/18/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/13/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/24/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/28/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/8/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/13/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/23/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/29/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/13/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/24/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/16/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/15/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/17/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/9/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/8/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,8/15/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/4/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/0/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/4/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/2/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/19/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/16/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/5/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/15/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/18/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/23/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/26/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/17/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/30/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/8/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/12/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/29/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,9/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/28/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/22/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/15/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/18/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/15/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/16/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/17/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/19/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/1/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/1/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/8/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/21/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/4/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/15/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/1/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/25/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/27/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,10/18/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/2/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/9/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/28/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/19/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/19/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/14/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/13/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/8/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/9/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/15/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/27/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/30/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/5/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/6/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/15/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/28/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/19/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/21/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/8/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,11/24/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/28/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/23/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/21/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/8/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/1/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/10/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/10/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/30/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/21/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/26/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/17/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/21/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/22/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/3/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/29/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/11/2015
-Scooters Coffeehouse Welch Plaza, 180th and Q,Coffee,5.67,12/19/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/7/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/13/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/15/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/6/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/7/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/20/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/4/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/25/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/17/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/22/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/5/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/15/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/28/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/4/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/9/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/6/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/1/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/16/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,1/29/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/21/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/18/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/28/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/22/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/28/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/19/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/27/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/12/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/17/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/5/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/12/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/2/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/19/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/22/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/5/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/26/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/16/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/17/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/4/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,2/13/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/7/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/6/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/26/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/22/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/25/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/12/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/17/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/19/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/2/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/4/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/6/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/21/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/19/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/29/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/1/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,3/17/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/22/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/26/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/6/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/24/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/4/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/29/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/28/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/17/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/14/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/5/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/27/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/12/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/14/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/17/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/16/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/4/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/15/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/14/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/25/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,4/16/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/25/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/7/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/24/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/14/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/17/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/6/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/1/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/27/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/13/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/24/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/23/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/6/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/1/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/18/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/25/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/20/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/23/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/20/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,5/4/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/30/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/22/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/12/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/23/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/21/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/25/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/16/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/16/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/22/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/28/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/2/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/9/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/19/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/13/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/20/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/21/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/25/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,6/10/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/6/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/6/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/2/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/28/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/4/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/20/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/1/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/20/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/23/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/22/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/29/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/26/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/21/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/5/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/20/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/26/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,7/23/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/9/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/16/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/2/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/18/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/13/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/24/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/28/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/13/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/23/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/29/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/13/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/24/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/16/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/15/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/17/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/9/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,8/15/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/4/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/5/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/4/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/2/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/19/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/16/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/5/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/15/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/18/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/23/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/26/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/17/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/30/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/12/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/29/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,9/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/28/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/22/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/15/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/18/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/15/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/16/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/17/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/19/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/1/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/1/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/21/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/4/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/15/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/1/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/25/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/27/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,10/18/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/2/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/9/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/28/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/19/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/19/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/14/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/13/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/9/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/15/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/27/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/30/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/5/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/6/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/15/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/28/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/19/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/21/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,11/24/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/28/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/23/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/21/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/8/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/1/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/10/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/10/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/30/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/21/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/26/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/17/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/21/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/22/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/3/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/29/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/11/2015
+Scooters Coffeehouse Welch Plaza 180th and Q,Coffee,5.67,12/19/2015
