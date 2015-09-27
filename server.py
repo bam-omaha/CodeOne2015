@@ -156,20 +156,21 @@ def parse_question(question):
     if question == "":
         return ""
 
-    query =  process.parse(question)
+    query, question_type =  process.parse(question)
     if query is None:
         return None
 
     print("Query is: ", query)
-    return list(db.engine.execute(query))
+    print("Question is: ", question_type)
+    return list(db.engine.execute(query)), question_type
 
 @app.route('/json/ask', methods=["POST"])
 def jsonask():
     data = json.loads(request.data.decode())
-    response = parse_question(data["question"])
+    response, question_type = parse_question(data["question"])
     if response is None:
         abort(409)
-    return json.dumps({"table": [dict(x.items()) for x in response]})
+    return json.dumps({"table": [dict(x.items()) for x in response], "question_type": question_type})
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
