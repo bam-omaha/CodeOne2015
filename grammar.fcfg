@@ -4,7 +4,7 @@
 
 S[QT='What is', SEM=('SELECT * from knowledges WHERE topic_name=' + ?q + ' COLLATE NOCASE;')] -> WH[SEM=?q]
 
-S[QT='How much', SEM=('SELECT * FROM transactions t inner join categories c on c.id=t.category_id ' + ?q)] -> HOWMUCH[SEM=?q]
+S[QT='How much', SEM=('SELECT * FROM transactions t inner join categories c on c.id=t.category_id ' + ?q + 'ORDER BY t.time')] -> HOWMUCH[SEM=?q]
 
 
 
