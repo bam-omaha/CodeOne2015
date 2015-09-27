@@ -82,7 +82,7 @@ def create_transaction(name, title, amount, category,time):
     newTransaction = model.Transaction(user, title, amount, category,time)
     db.session.add(newTransaction)
     db.session.commit()
-    return newTransaction 
+    return newTransaction
 
 
 @loginmanager.user_loader
@@ -154,15 +154,24 @@ def signout():
     logout_user()
     return redirect('/signin')
 
+def parse_question(question):
+    query = ""
+    if question == "":
+        return ""
+
+    query =  process.parse(question)
+    return list(db.engine.execute(query))
+
+@app.route('/json/ask', methods="POST")
+def jsonask():
+    response = parse_question(request.form.get("question", ""))
+    return json.dumps({"table": response})
+
 @app.route('/', methods=['GET', 'POST'])
 def index():
     if current_user.is_anonymous:
         return redirect("/signin")
-    question = request.form.get("question", "")
-    print(question)
-    response = ""
-    if question != "" :
-        response =  process.parse(question)
+    response = parse_question(request.form.get("question", ""))
     return render_template('index.html', resp_data=response)
 
 @app.route('/profile', methods=['GET', 'POST'])
@@ -188,8 +197,7 @@ def profile():
 def admin():
     if current_user.is_admin:
         users = model.User.query.all()
-        categories = model.Category.query.all()
-        return render_template('admin.html', users=users, categories=categories)
+        return render_template('admin.html', users=users)
     # If the user isn't an admin, return them to /
     return abort(403)
 
