@@ -176,7 +176,7 @@ def jsonask():
         total = 0
         for entry in response:
             total += float(entry.amount)
-        answer = total
+        answer = "${}".format(total)
     elif question_type == "What is":
         answer = response[0].answer
 
