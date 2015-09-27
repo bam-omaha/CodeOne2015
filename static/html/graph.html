@@ -1,0 +1,32 @@
+<md-card>
+<md-content class='md-padding'>
+
+<!--    <md-tabs md-dynamic-height>
+        <tab label="transactions">
+        <md-content style="height:300px">-->
+    <style>
+line,circle {
+    fill: none;
+        stroke-width: 1px;
+        stroke: rgba(0,0,0,0.5);
+}
+    </style>
+    <svg width='300px' viewbox="0 0 500 250">
+        <g transform="scale(1,-1)translate(0,-250)">
+            <g ng-repeat='(index,point) in points'>
+                <circle ng-attr-cx='{{ rescaleTime(point.t,500) }}'
+                   ng-attr-cy='{{ point.amt * mscale }}'
+                   r='2'/>
+                <line ng-attr-x1='{{ rescaleTime(point.t,500) }}'
+                   ng-attr-x2='{{ rescaleTime(point.t,500) }}'
+                   y1='0'
+                   ng-attr-y2='{{point.amt * mscale}}'/>
+             </g>
+        </g>
+
+    </svg>
+<!--        </md-content>
+    </md-tab>
+    </md-tabs>-->
+</md-content>
+</md-card>

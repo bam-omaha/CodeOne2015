@@ -9,13 +9,16 @@
                 <input ng-model="question" name="question" type="text">
 				</md-input-container>
 
-				<md-button class="md-raised" flex-order="2" ng-click='request()'>Submit</md-button>
+                <md-button class="md-raised" flex-order="2" ng-click='request()'>Search</md-button>
 			</div>
 		</div>
 		<div flex>
             {{ resp_data }}
 		</div>
 	</div>
+    <div layout="column" layout-align='center center' layout-wrap>
+        <awesome-graph data="data"></awesome-graph>
 <splainin-box data="data"></splainin-box>
+    </div>
 </div>
 {% endblock %}
