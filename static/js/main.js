@@ -17,10 +17,14 @@ app.controller('AppCtrl', ['$scope', '$mdSidenav', '$http', function($scope, $md
                 function(dat){
                     console.log(dat);
                     $scope.data = dat.data.table;
+										
+                      var audio = new Audio('/audio');
+                      audio.play();
                 },
                 function(data, status){
                     alert("malformed query")
                 },angular.noop());
+
 
     }
 

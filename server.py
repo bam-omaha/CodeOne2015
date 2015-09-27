@@ -11,6 +11,8 @@ from wtforms import validators
 from passlib.hash import pbkdf2_sha256
 from datetime import datetime
 
+import perform
+
 import logging
 
 from model import Model
@@ -45,6 +47,7 @@ assets.register('css_all', css)
 
 model = Model(app)
 db = model.db
+
 
 ## Authentication
 class LoginForm(Form):
@@ -156,12 +159,17 @@ def parse_question(question):
     if question == "":
         return ""
 
+    perform.espeak("-w holding.wav","\"" + question+ "\"")
+
     query =  process.parse(question)
     if query is None:
         return None
 
     print("Query is: ", query)
     return list(db.engine.execute(query))
+@app.route('/audio')
+def audio():
+    return app.send_static_file('holding.wav')
 
 @app.route('/json/ask', methods=["POST"])
 def jsonask():

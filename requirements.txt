@@ -14,3 +14,4 @@ itsdangerous==0.24
 jsmin==2.1.4
 passlib==1.6.5
 webassets==0.11.1
+perform==0.0.8
