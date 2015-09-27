@@ -9,6 +9,7 @@ from flask_wtf import Form
 from wtforms import StringField, PasswordField, TextField, TextAreaField
 from wtforms import validators
 from passlib.hash import pbkdf2_sha256
+from datetime import datetime
 
 import logging
 
@@ -71,6 +72,16 @@ def create_user(name, email, password, is_admin=False):
     db.session.add(newuser)
     db.session.commit()
     return newuser
+
+def create_transaction(name, title, amount, category,time):
+    users = model.User.query.filter_by(name=name)
+    user = users.first()
+    print(time)
+    newTransaction = model.Transaction(user, title, amount, category,time)
+    db.session.add(newTransaction)
+    db.session.commit()
+    return newTransaction 
+
 
 @loginmanager.user_loader
 def load_user(email):

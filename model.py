@@ -1,3 +1,4 @@
+
 from flask.ext.sqlalchemy import SQLAlchemy
 from flask import Markup
 
@@ -10,30 +11,43 @@ class Model():
         self.db = SQLAlchemy(app)
         db = self.db
 
-        class Category(self.db.Model):
-            __tablename__ = 'category'
+        class Transaction(self.db.Model):
+            __tablename__ = 'transactions'
 
             id = db.Column(db.Integer, primary_key=True)
             title = db.Column(db.String)
+            amount = db.Column(db.String)
+            category = db.Column(db.String)
+            time = db.Column(db.DateTime)
+            user_id = db.Column(db.Integer, db.ForeignKey('users.id'))
+            user = db.relationship('User', backref=db.backref('Transactions', lazy='dynamic'))
 
-            def __init__(self, title):
+            def __init__(self,user, title,amount,category,time):
+                self.user = user 
                 self.title = title
-        self.Category = Category
+                self.amount = amount 
+                self.category = category 
+                self.time = datetime.strptime(time, '%m/%d/%Y')
 
-        class Review(self.db.Model):
-            __tablename__ = 'review'
+        self.Transaction = Transaction
+
+        class Budget(self.db.Model):
+            __tablename__ = 'budget'
 
             id = db.Column(db.Integer, primary_key=True)
-            text = db.Column(db.String)
-            rating = db.Column(db.Integer)
-            category_id = db.Column(db.Integer, db.ForeignKey('category.id'), nullable=False)
-            category = db.relationship('Category', backref=db.backref('Review', lazy='dynamic'))
+            limit= db.Column(db.Float)
+            used = db.Column(db.Float)
+            category = db.Column(db.String)
+
+            user_id = db.Column(db.Integer, db.ForeignKey('users.id'), nullable=False)
+            user = db.relationship('User', backref=db.backref('Budget', lazy='dynamic'))
+
 
             def __init__(self, text, rating, category):
                 self.text = text
                 self.rating = rating
                 self.category = category
-        self.Review = Review
+        self.Budget = Budget 
 
         class User(self.db.Model):
             __tablename__ = 'users'
