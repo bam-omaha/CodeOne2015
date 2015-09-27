@@ -1,19 +1,19 @@
 {% extends "navbarbase.html" %}
 {% block navcontent %}
-<form>
+<form action="/" method="POST">
 	<div flex layout="column" >
-		<div flex="20" offset="20">
+		<div flex="20">
 			<div id = "box" flex layout="row"  layout-align="center center" flex-order="0">
 				<md-input-container flex="33" id="damn" flex-order="1">
 				<label>What do you want to know</label>
-				<input  type="text">
+				<input name="question" type="text">
 				</md-input-container>
 
 				<md-button type="submit" class="md-raised" flex-order="2">Submit</md-button>
 			</div>
 		</div>
 		<div flex>
-			<!--Response data put here-->
+            {{ resp_data }}
 		</div>
 	</div>
 

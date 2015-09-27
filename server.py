@@ -141,12 +141,11 @@ def signout():
     logout_user()
     return redirect('/signin')
 
-@app.route('/', methods=['GET'])
+@app.route('/', methods=['GET', 'POST'])
 def index():
-    print(current_user.is_anonymous)
     if current_user.is_anonymous:
         return redirect("/signin")
-    return render_template('index.html')
+    return render_template('index.html', resp_data=request.form.get("question", ""))
 
 @app.route('/profile', methods=['GET', 'POST'])
 @login_required
