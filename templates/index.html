@@ -1,22 +1,21 @@
 {% extends "navbarbase.html" %}
 {% block navcontent %}
-<form action="/" method="POST">
+<div ng-controller='AppCtrl'>
 	<div flex layout="column" >
 		<div flex="20">
 			<div id = "box" flex layout="row"  layout-align="center center" flex-order="0">
 				<md-input-container flex="33" id="damn" flex-order="1">
 				<label>What do you want to know</label>
-				<input name="question" type="text">
+                <input ng-model="question" name="question" type="text">
 				</md-input-container>
 
-				<md-button type="submit" class="md-raised" flex-order="2">Submit</md-button>
+				<md-button class="md-raised" flex-order="2" ng-click='request()'>Submit</md-button>
 			</div>
 		</div>
 		<div flex>
             {{ resp_data }}
 		</div>
 	</div>
-
-</form>
-
+<splainin-box data="data"></splainin-box>
+</div>
 {% endblock %}

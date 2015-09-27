@@ -166,7 +166,8 @@ def parse_question(question):
 
 @app.route('/json/ask', methods=["POST"])
 def jsonask():
-    response = parse_question(request.form.get("question", ""))
+    data = json.loads(request.data.decode())
+    response = parse_question(data["question"])
     return json.dumps({"table": [dict(x.items()) for x in response]})
 
 @app.route('/', methods=['GET', 'POST'])
@@ -259,6 +260,7 @@ def user_delete(user_id):
 
 @app.route('/js/<remainder>', methods=['GET'])
 @app.route('/img/<remainder>', methods=['GET'])
+@app.route('/html/<remainder>', methods=['GET'])
 @login_required
 def get_static(remainder):
     return send_from_directory(app.static_folder,request.path[1:])
