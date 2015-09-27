@@ -15,7 +15,7 @@ class Model():
 
             id = db.Column(db.Integer, primary_key=True)
             title = db.Column(db.String)
-            amount = db.Column(db.String)
+            amount = db.Column(db.Float)
             time = db.Column(db.DateTime)
 
             user_id = db.Column(db.Integer, db.ForeignKey('users.id'))
@@ -27,7 +27,7 @@ class Model():
             def __init__(self, user, title, amount, category, time):
                 self.user = user
                 self.title = title
-                self.amount = amount
+                self.amount = float(amount)
                 self.category = category
                 self.time = datetime.strptime(time, '%m/%d/%Y')
         self.Transaction = Transaction

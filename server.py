@@ -11,6 +11,8 @@ from wtforms import validators
 from passlib.hash import pbkdf2_sha256
 from datetime import datetime
 
+import perform
+
 import logging
 
 from model import Model
@@ -45,6 +47,7 @@ assets.register('css_all', css)
 
 model = Model(app)
 db = model.db
+
 
 ## Authentication
 class LoginForm(Form):
@@ -156,6 +159,7 @@ def parse_question(question):
     if question == "":
         return ""
 
+
     query, question_type =  process.parse(question)
     if query is None:
         return None
@@ -163,6 +167,7 @@ def parse_question(question):
     print("Query is: ", query)
     print("Question is: ", question_type)
     return list(db.engine.execute(query)), question_type
+
 
 @app.route('/json/ask', methods=["POST"])
 def jsonask():
@@ -176,9 +181,13 @@ def jsonask():
         total = 0
         for entry in response:
             total += float(entry.amount)
-        answer = "${}".format(total)
+        answer = "The the total is ${}".format(total)
     elif question_type == "What is":
         answer = response[0].answer
+
+
+    perform.rm("static/holding.wav")
+    perform.espeak("-w static/holding.wav","\"" + answer + "\"")
 
     return json.dumps({"table": [dict(x.items()) for x in response], "question_type": question_type, "answer": answer})
 
@@ -273,6 +282,7 @@ def user_delete(user_id):
 @app.route('/js/<remainder>', methods=['GET'])
 @app.route('/img/<remainder>', methods=['GET'])
 @app.route('/html/<remainder>', methods=['GET'])
+@app.route('/holding.wav', methods=['GET'])
 @login_required
 def get_static(remainder):
     return send_from_directory(app.static_folder,request.path[1:])

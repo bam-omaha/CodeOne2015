@@ -32,11 +32,14 @@ app.controller('AppCtrl', ['$scope', '$mdSidenav', '$http', function($scope, $md
                         $scope.isAnswer = false;
                         $scope.data = dat.data.table;
                     }
+                      var audio = new Audio('static/holding.wav');
+                      audio.play();
                 },
                 function(data, status){
                     $scope.hasInfo = false;
                     alert("malformed query");
                 },angular.noop());
+
 
     }
     $scope.request();
