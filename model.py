@@ -42,6 +42,18 @@ class Model():
                 self.title = title
         self.Category = Category
 
+        class Knowledge(self.db.Model):
+            __tablename__ = 'knowledges'
+
+            id = db.Column(db.Integer, primary_key=True)
+            topic_name = db.Column(db.String)
+            answer = db.Column(db.String)
+
+            def __init__(self, topic_name, answer):
+                self.topic_name = topic_name
+                self.answer = answer
+        self.Knowledge = Knowledge
+
         class Budget(self.db.Model):
             __tablename__ = 'budget'
 
