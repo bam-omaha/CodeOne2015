@@ -5,7 +5,7 @@ var app = angular.module('StarterApp', ['ngMaterial']).config(function($mdThemin
 });
 
 app.controller('AppCtrl', ['$scope', '$mdSidenav', '$http', function($scope, $mdSidenav, $http){
-    $scope.question = "how much do I spend";
+    $scope.question = "";
     $scope.subject = "";
     $scope.hasInfo = false;
     $scope.isAnswer = true;
@@ -29,11 +29,13 @@ app.controller('AppCtrl', ['$scope', '$mdSidenav', '$http', function($scope, $md
                         console.log("WI");
                     }else {
                         $scope.isTabular = true;
-                        $scope.isAnswer = false;
+                        $scope.isAnswer = true;
                         $scope.data = dat.data.table;
+                        $scope.subject = "";
                     }
                       var audio = new Audio('static/holding.wav');
                       audio.play();
+                    $scope.answer = dat.data.answer;
                 },
                 function(data, status){
                     $scope.hasInfo = false;
@@ -42,7 +44,6 @@ app.controller('AppCtrl', ['$scope', '$mdSidenav', '$http', function($scope, $md
 
 
     }
-    $scope.request();
 
 }]);
 

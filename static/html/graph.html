@@ -11,7 +11,7 @@ line,circle {
         stroke: rgba(0,0,0,0.5);
 }
     </style>
-    <svg width='300px' viewbox="0 0 500 250">
+    <svg width='100%' viewbox="0 0 500 250">
         <g transform="scale(1,-1)translate(0,-250)">
             <g ng-repeat='(index,point) in points'>
                 <circle ng-attr-cx='{{ rescaleTime(point.t,500) }}'

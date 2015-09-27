@@ -18,11 +18,11 @@
 	</div>
     <style>
 md-card {
-    width:400px;
+    width:500px;
 }
     </style>
 
-    <div ng-if='hasInfo' layout="row" layout-align='center center' layout-wrap>
+    <div style="height:500px" ng-if='hasInfo' layout="column" layout-align='center center' layout-wrap>
         <answer-card  ng-if="isAnswer" subject="subject" answer="answer"></answer-card>
         <awesome-graph ng-if="isTabular"data="data"></awesome-graph>
 <splainin-box ng-if="isTabular" data="data"></splainin-box>
