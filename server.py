@@ -170,7 +170,17 @@ def jsonask():
     response, question_type = parse_question(data["question"])
     if response is None:
         abort(409)
-    return json.dumps({"table": [dict(x.items()) for x in response], "question_type": question_type})
+
+    # Tabulate result
+    if question_type == "How much":
+        total = 0
+        for entry in response:
+            total += float(entry.amount)
+        answer = total
+    elif question_type == "What is":
+        answer = response[0].answer
+
+    return json.dumps({"table": [dict(x.items()) for x in response], "question_type": question_type, "answer": answer})
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
